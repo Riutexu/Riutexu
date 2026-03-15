@@ -11,31 +11,33 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Riutexu;Desarrollador+%26+Creativo;Bienvenido+a+mi+perfil" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Riutexu;Desarrollador+%26+Creativo;Game+Dev+%7C+Web+%7C+Software" alt="Typing SVG" />
 </div>
 
 <hr border="1" color="#44475a" />
 
 <table align="center" border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td width="60%" valign="top">
+    <td width="55%" valign="top">
       <h3 align="left">🛠️ Mi Stack Tecnológico</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=vscode,unity,unreal,sqlite,wordpress,react,r,powershell,nodejs,jquery,js,java" height="35" />
+        <img src="https://skillicons.dev/icons?i=vscode,unity,unreal,sqlite,wordpress,react,r,powershell" height="35" />
         <br/><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
+        <img src="https://skillicons.dev/icons?i=nodejs,jquery,js,java" height="35" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php" />
+        <br/><br/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="gcp" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" />
       </p>
       <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Riutexu&locale=es&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" width="350" />
     </td>
 
-    <td width="40%" align="center" valign="middle">
-      <img src="https://i.imgflip.com/65efzo.gif" width="100%" style="border-radius: 15px; border: 2px solid #bd93f9;" alt="Anime typing gif" />
+    <td width="45%" align="right" valign="middle">
+      <img src="https://i.imgflip.com/65efzo.gif" width="100%" style="border-radius: 15px; border: 3px solid #bd93f9;" alt="Anime typing gif" />
     </td>
   </tr>
 </table>
@@ -55,6 +57,10 @@
 <br/>
 
 <div align="center">
-  <h3>🐍 Snake Way</h3>
-  <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  <h3>🐍 My Snake Journey</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riutexu/Riutexu/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riutexu/Riutexu/output/github-contribution-grid-snake.svg">
+    <img alt="snake contribution" src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 </div>
