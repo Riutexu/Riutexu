@@ -1,66 +1,42 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=header&text=Bienvenido%20al%20Espacio%20de%20Riutexu&fontSize=45&animation=fadeIn&fontAlignY=35&fontColor=bd93f9" width="100%" />
-  
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph.svg" width="100%">
-  </picture>
-</div>
+# 🚀 Full Stack Developer | @Riutexu
 
-<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Riutexu&color=blueviolet&style=flat-square" alt="Views" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=BD93F9&center=true&vCenter=true&width=500&lines=¡Hola!+Soy+Riutexu;Desarrollador+%26+Creativo;Game+Dev+%7C+Web+%7C+Software" alt="Typing SVG" />
-</div>
+---
 
-<hr border="1" color="#44475a" />
+### 🛠️ Tech Stack
 
-<table align="center" border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td width="55%" valign="top">
-      <h3 align="left">🛠️ Mi Stack Tecnológico</h3>
-      <p align="left">
-        <img src="https://skillicons.dev/icons?i=vscode,unity,unreal,sqlite,wordpress,react,r,powershell" height="35" />
-        <br/><br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,jquery,js,java" height="35" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" alt="php" />
-        <br/><br/>
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" alt="mysql" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" alt="gcp" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5" />
-      </p>
-      <br/>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Riutexu&locale=es&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" width="350" />
-    </td>
+| Layer | Technologies |
+| :--- | :--- |
+| **Frontend** | `React`, `Next.js`, `TypeScript`, `Tailwind CSS` |
+| **Backend** | `Node.js`, `Express`, `Python`, `Go` |
+| **Database** | `PostgreSQL`, `MongoDB`, `Redis` |
+| **DevOps** | `Docker`, `GitHub Actions`, `AWS` |
 
-    <td width="45%" align="right" valign="middle">
-      <img src="https://i.imgflip.com/65efzo.gif" width="100%" style="border-radius: 15px; border: 3px solid #bd93f9;" alt="Anime typing gif" />
-    </td>
-  </tr>
-</table>
+---
 
-<br/>
+### 📊 Activity Metrics
 
-<div align="center">
-  <h3 align="center">🌐 Conecta conmigo</h3>
-  <a href="https://discord.gg/TU_INVITACION"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" /></a>
-  <a href="https://youtube.com/@Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" /></a>
-  <a href="https://instagram.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" /></a>
-  <a href="https://twitch.tv/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" /></a>
-  <a href="https://wa.me/TU_NUMERO"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" /></a>
-  <a href="https://t.me/TU_USUARIO"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" /></a>
-</div>
+#### 🕹️ Contribution Pacman
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman.svg">
+  <img alt="Pacman Eating Contributions" src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman.svg" width="100%">
+</picture>
 
-<br/>
+#### 🐍 Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riutexu/Riutexu/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riutexu/Riutexu/output/snake.svg">
+  <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/snake.svg" width="100%">
+</picture>
 
-<div align="center">
-  <h3>🐍 My Snake Journey</h3>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riutexu/Riutexu/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riutexu/Riutexu/output/github-contribution-grid-snake.svg">
-    <img alt="snake contribution" src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+---
+
+<p align="center">
+  <a href="https://github.com/Riutexu">
+    <img src="https://github-readme-stats.vercel.app/api?username=Riutexu&show_icons=true&theme=transparent&hide_border=true" alt="Riutexu's GitHub stats" />
+  </a>
+</p>
