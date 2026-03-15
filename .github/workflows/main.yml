@@ -1,14 +1,14 @@
-name: generate animation
+name: Generate Animations
 
 on:
-  # Ejecutar automáticamente cada 24 horas
+  # Se ejecuta cada 24 horas
   schedule:
     - cron: "0 */24 * * *" 
   
-  # Permite ejecutarlo manualmente en cualquier momento
+  # Permite ejecutarlo manualmente
   workflow_dispatch:
   
-  # Ejecutar en cada push a la rama main
+  # Se ejecuta en cada push a la rama main
   push:
     branches:
     - main
@@ -21,8 +21,8 @@ jobs:
     timeout-minutes: 5
     
     steps:
-      # genera el juego de la serpiente a partir de un gráfico de contribuciones de un usuario de github
-      - name: generate github-contribution-grid-snake.svg
+      # 1. Generar la Serpiente (Snake)
+      - name: generate-snake-svg
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: Riutexu
@@ -30,8 +30,17 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
-      # sube el contenido de <build_dir> a una rama
-      - name: push github-contribution-grid-snake.svg to the output branch
+      # 2. Generar el Pacman de Contribuciones
+      - name: generate-pacman-svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Riutexu
+          outputs: |
+            dist/pacman-contribution-graph.svg
+            dist/pacman-contribution-graph-dark.svg?palette=github-dark&color_snake=yellow
+          
+      # 3. Empujar los archivos a la rama 'output'
+      - name: push graphs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
