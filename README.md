@@ -1,6 +1,11 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=282a36&height=120&section=header&text=Bienvenido%20al%20Espacio%20de%20Riutexu&fontSize=45&animation=fadeIn&fontAlignY=35&fontColor=bd93f9" width="100%" />
-  <img src="https://nextjs-portfolio-livid-six.vercel.app/api/pacman" width="100%" alt="Pacman Animation" />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph.svg" width="100%">
+  </picture>
 </div>
 
 <br/>
@@ -16,17 +21,14 @@
     <td width="60%" valign="top">
       <h3 align="left">🛠️ Mi Stack Tecnológico</h3>
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=vscode,unity,unreal,sqlite,wordpress,react,r,powershell" height="35" />
+        <img src="https://skillicons.dev/icons?i=vscode,unity,unreal,sqlite,wordpress,react,r,powershell,nodejs,jquery,js,java" height="35" />
         <br/><br/>
-        <img src="https://skillicons.dev/icons?i=nodejs,jquery,js,java" height="35" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="35" />
-        <br/><br/>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="35" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="35" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="35" />
       </p>
       <br/>
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Riutexu&locale=es&layout=compact&theme=dracula&hide_border=true&title_color=bd93f9&text_color=f8f8f2&bg_color=282a36" width="350" />
@@ -53,5 +55,6 @@
 <br/>
 
 <div align="center">
+  <h3>🐍 Snake Way</h3>
   <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 </div>
