@@ -10,9 +10,9 @@
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
-    <td align="center" width="50%" valign="top" style="border-right: 2px solid #333;">
+    <td align="center" width="49%" valign="top">
       <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="180" />
-      <h2 align="center">SYSTEM_LOG: ACTIVATED</h2>
+      <h2 align="center">SYSTEM_LOG</h2>
       <img src="https://img.shields.io/badge/RANK-GOD_MODE-ff0055?style=for-the-badge" />
       <img src="https://img.shields.io/badge/USER-RIUTEXU-00f2ff?style=for-the-badge" />
       <p align="center"><strong>FULL STACK SHINOBI | ERROR EXORCIST</strong><br>
@@ -25,7 +25,7 @@
       </div>
     </td>
 
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="49%" valign="top">
       <h2 align="center">TECH_ARSENAL</h2>
       <p align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" hspace="2" />
