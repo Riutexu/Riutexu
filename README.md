@@ -40,9 +40,7 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.tenor.com/Lu3ZB5FTDdwAAAAm/duong2.webp" width="100%" height="80" style="object-fit: cover; border-radius: 10px;" />
-</div>
+
 
 <br>
 
