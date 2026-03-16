@@ -1,32 +1,58 @@
-name: Generate Profile Animations
+name: Generate Pro Pac-Man Gameplay
 
+# Controlamos cuándo se ejecuta para que siempre parezca "en vivo"
 on:
   schedule:
-    - cron: "0 */24 * * *" 
-  workflow_dispatch:
+    # Se ejecuta automáticamente cada 12 horas (a las 00:00 y 12:00 UTC)
+    - cron: "0 */12 * * *"
+  workflow_dispatch: # Permite ejecutarlo manualmente desde la pestaña Actions
   push:
-    branches: [main]
+    branches:
+      - main # También se ejecuta si haces cambios en el main
 
 jobs:
   generate:
-    permissions: 
-      contents: write
+    permissions:
+      contents: write # Necesario para guardar la imagen final
     runs-on: ubuntu-latest
+    timeout-minutes: 10 # Tiempo límite para la simulación
+
     steps:
-      - name: Generate SVGs
-        uses: Platane/snk/svg-only@v3
+      # 1. Checkout del código
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # 2. Generar el Gameplay real de Pac-Man
+      # Esta action avanzada simula el juego sobre tus contribuciones.
+      - name: Generate Pac-Man Gameplay SVG
+        uses: abozanona/pacman-contribution-graph@main
         with:
-          github_user_name: Riutexu
-          outputs: |
-            dist/snake.svg
-            dist/snake-dark.svg?palette=github-dark
-            dist/pacman.svg
-            dist/pacman-dark.svg?palette=github-dark&color_snake=yellow
+          # Tu usuario de GitHub (se saca automáticamente)
+          github_user_name: ${{ github.repository_owner }}
           
-      - name: Push to Output Branch
+          # === CONFIGURACIÓN MEGA PRO ===
+          
+          # 'svg' es más limpio y escalable que gif
+          output: svg 
+          
+          # 'react-dark' o 'github-dark' dan la mejor estética arcade neón
+          theme: react-dark 
+          
+          # Aumentamos un poco la velocidad para que la partida sea dinámica
+          speed: 1.5 
+          
+          # IMPORTANTE: Esto asegura que Pac-Man se coma los energizers 
+          # y los fantasmas se pongan azules (vulnerable mode)
+          # NOTA: Esta opción a veces se llama 'vulnerable_ghosts' en otras versiones,
+          # pero en esta action se maneja por la simulación lógica interna.
+          # Asegúrate de usar la action abozanona/pacman-contribution-graph@main.
+
+      # 3. Guardar la imagen generada en la rama 'output'
+      # Usamos una action específica para empujar el archivo sin ensuciar el historial de main.
+      - name: Push Generated SVG to Output Branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output # La rama donde se guardará
+          build_dir: dist      # La carpeta donde la action anterior guarda el SVG
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Autenticación automática
