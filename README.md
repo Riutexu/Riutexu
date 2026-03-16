@@ -27,21 +27,18 @@
       </div>
     </td>
     <td align="center" width="50%" valign="top">
-      <h2 align="center">◈ TECH_ARSENAL ◈</h2>
+      <h2 align="center">◈Lenguajes de trabajo◈</h2>
       <p align="center">
-        <font color="#888">CORE BASICS</font><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
       </p>
       <p align="center">
-        <font color="#00f2ff">PROFESSIONAL STACK</font><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
       </p>
       <p align="center">
-        <font color="#ff0055">SYSTEM ARCHITECT</font><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
