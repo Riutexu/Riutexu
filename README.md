@@ -15,11 +15,7 @@
       <img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif" width="100%" />
       <br><br>
       <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="220" />
-      <h2 align="center">◈ USER_INTERFACE ◈</h2>
-      <p align="center">
-        <img src="https://img.shields.io/badge/RANK-GOD_MODE-ff0055?style=for-the-badge" />
-        <img src="https://img.shields.io/badge/SYNC-100%25-00f2ff?style=for-the-badge" />
-      </p>
+      <h2 align="center">◈Hello◈</h2>
       <font size="4"><i>"El que arriesga no gana, y yo nunca gano"</i></font>
       <br><br>
       <img src="https://media.tenor.com/CjvPhrcyEtsAAAAm/stars-divider.webp" width="80%" />
