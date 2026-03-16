@@ -32,6 +32,7 @@
           <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="42" height="35" hspace="1" /></a>
           <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="35" hspace="1" /></a>
         </nobr>
+        <br>
       </div>
     </td>
     <td align="center" width="50%" valign="top">
