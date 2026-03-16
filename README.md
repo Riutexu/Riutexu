@@ -9,50 +9,64 @@
 <br>
 
 <div align="center">
-<table border="0" cellpadding="0" cellspacing="0" width="95%">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif"/>
-      <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="210" />
-      <h2 align="center">◈Hello◈</h2>
-      <font size="3"><i>"El que arriesga no gana, y yo nunca gano"</i></font></p>
-   <img src="https://media.tenor.com/CjvPhrcyEtsAAAAm/stars-divider.webp" />
-      <h4 align="center">Conexiones</h4>
+      <img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif" width="100%" />
+      <br><br>
+      <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="220" />
+      <h2 align="center">◈ USER_INTERFACE ◈</h2>
+      <p align="center">
+        <img src="https://img.shields.io/badge/RANK-GOD_MODE-ff0055?style=for-the-badge" />
+        <img src="https://img.shields.io/badge/SYNC-100%25-00f2ff?style=for-the-badge" />
+      </p>
+      <font size="4"><i>"El que arriesga no gana, y yo nunca gano"</i></font>
+      <br><br>
+      <img src="https://media.tenor.com/CjvPhrcyEtsAAAAm/stars-divider.webp" width="80%" />
+      <h3 align="center">Conexiones Neuronales</h3>
       <div align="center">
-        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" hspace="5" /></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" hspace="5" /></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="45" hspace="5" /></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" hspace="5" /></a>
+        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" hspace="5" /></a>
+        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="50" hspace="5" /></a>
+        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="50" hspace="5" /></a>
+        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" hspace="5" /></a>
       </div>
     </td>
     <td align="center" width="50%" valign="top">
-      <h2 align="center">◈Lenguajes de trabajo◈</h2>
+      <h2 align="center">◈ TECH_ARSENAL ◈</h2>
       <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
+        <kbd>LVL 01: BEGINNER_PHASE</kbd><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="45" title="jQuery" />
       </p>
       <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+        <kbd>LVL 02: PROFESSIONAL_GEAR</kbd><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" title="R Language" />
       </p>
       <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
+        <kbd>LVL 03: OVERDRIVE_SYSTEM</kbd><br><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" title="TypeScript" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="45" title="Apache" />
       </p>
       <div align="center">
-        <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=black&style=flat" />
-        <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat" />
-        <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat" />
+        <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=black&style=flat-square" />
+        <img src="https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white&style=flat-square" />
       </div>
       <br>
-      <img src="https://media.tenor.com/qMwo1n-MFxYAAAAm/moster-energy-drink-monster-meme.webp" width="180" />
+      <img src="https://media.tenor.com/qMwo1n-MFxYAAAAm/moster-energy-drink-monster-meme.webp" width="200" />
     </td>
   </tr>
 </table>
 </div>
+
 <div align="center">
-<img src="https://media.tenor.com/ifD1GaekwpoAAAAm/uma-musume-agnes-tachyon.webp" />
+  <img src="https://media.tenor.com/ifD1GaekwpoAAAAm/uma-musume-agnes-tachyon.webp" width="400" />
+  <br>
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&section=footer&theme=dark_rainbow" width="100%" />
 </div>
