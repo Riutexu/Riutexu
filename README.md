@@ -13,6 +13,7 @@
   <tr>
     <img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif"/>
     <td align="center" width="50%" valign="top">
+      <img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif"/>
       <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="210" />
       <h2 align="center">◈Hello◈</h2>
       <font size="3"><i>"El que arriesga no gana, y yo nunca gano"</i></font></p>
