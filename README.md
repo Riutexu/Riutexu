@@ -28,11 +28,11 @@
       <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" hspace="2" /></a>
     </td>
   </tr>
-</table>
+
 
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+
   <tr>
     <td align="center" width="70%">
       <h3>TECH_ARSENAL</h3>
