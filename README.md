@@ -20,7 +20,7 @@
       <img src="https://img.shields.io/badge/RANK-GOD_MODE-ff0055?style=for-the-badge" />
       <img src="https://img.shields.io/badge/USER-RIUTEXU-00f2ff?style=for-the-badge" />
       <p><strong>FULL STACK SHINOBI | ERROR EXORCIST | ARCHITECT</strong></p>
-      <p><i>"El código es mi camino ninja. Sin miedo al Debug."</i></p>
+      <p><i>"El que arriesga no gana, y yo nunca gano"</i></p>
       <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" hspace="2" /></a>
       <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" hspace="2" /></a>
       <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" hspace="2" /></a>
