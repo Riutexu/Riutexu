@@ -54,5 +54,5 @@
 </table>
 </div>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&section=footer&theme=dark_rainbow" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&section=footer&theme=dark_rainbow" width="100%" /> <img src="https://media.tenor.com/ifD1GaekwpoAAAAm/uma-musume-agnes-tachyon.webp" />
 </div>
