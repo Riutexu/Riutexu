@@ -12,7 +12,7 @@
       <br><br>
       <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="220" />
       <h2 align="center">◈Hello◈</h2>
-      <font size="4"><i>"El que arriesga no gana, y yo nunca gano"</i></font>
+      <font size="4"><i>"Quien no arriesga no gana, y yo nunca gano"</i></font>
       <br><br>
       <img src="https://media.tenor.com/CjvPhrcyEtsAAAAm/stars-divider.webp" width="80%" />
       <h3 align="center">Conexiones</h3>
