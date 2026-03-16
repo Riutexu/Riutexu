@@ -1,44 +1,50 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=RIUTEXU%20OVERDRIVE&fontSize=60&fontColor=FFFFFF&theme=dark_rainbow&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=RIUTEXU%20OVERDRIVE&fontSize=70&fontColor=FFFFFF&theme=dark_rainbow&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg" width="95%" />
+  <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg" width="100%" />
 </div>
 
 <br>
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<div align="center">
+<table border="0" cellpadding="0" cellspacing="0" width="95%">
   <tr>
     <td align="center" width="50%" valign="top">
-      <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="180" />
-      <h2 align="center">SYSTEM_LOG</h2>
+      <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="210" />
+      <h2 align="center">◈ SYSTEM_LOG ◈</h2>
       <img src="https://img.shields.io/badge/RANK-GOD_MODE-ff0055?style=for-the-badge" />
       <img src="https://img.shields.io/badge/USER-RIUTEXU-00f2ff?style=for-the-badge" />
       <p align="center"><strong>FULL STACK SHINOBI</strong><br>
-      <i>"El que arriesga no gana, y yo nunca gano"</i></p>
+      <font size="3"><i>"El que arriesga no gana, y yo nunca gano"</i></font></p>
+      <h4 align="center">Connect Neurons:</h4>
       <div align="center">
-        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="35" /></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" /></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="35" /></a>
-        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="35" /></a>
+        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" hspace="5" /></a>
+        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" hspace="5" /></a>
+        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="45" hspace="5" /></a>
+        <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="45" hspace="5" /></a>
       </div>
     </td>
     <td align="center" width="50%" valign="top">
-      <h2 align="center">TECH_ARSENAL</h2>
+      <h2 align="center">◈ TECH_ARSENAL ◈</h2>
       <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" />
+        <font color="#888">CORE BASICS</font><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" />
       </p>
       <p align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+        <font color="#00f2ff">PROFESSIONAL STACK</font><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" />
+      </p>
+      <p align="center">
+        <font color="#ff0055">SYSTEM ARCHITECT</font><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" />
       </p>
       <div align="center">
         <img src="https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=black&style=flat" />
@@ -46,17 +52,18 @@
         <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat" />
       </div>
       <br>
-      <img src="https://media.tenor.com/qMwo1n-MFxYAAAAm/moster-energy-drink-monster-meme.webp" width="160" />
+      <img src="https://media.tenor.com/qMwo1n-MFxYAAAAm/moster-energy-drink-monster-meme.webp" width="180" />
     </td>
   </tr>
 </table>
+</div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riutexu&show_icons=true&theme=transparent&title_color=00f2ff&icon_color=ff0055&text_color=ffffff&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Riutexu&show_icons=true&theme=transparent&title_color=00f2ff&icon_color=ff0055&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" height="190" />
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=30&section=footer&theme=dark_rainbow" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=40&section=footer&theme=dark_rainbow" width="100%" />
 </div>
