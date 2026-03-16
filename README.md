@@ -53,13 +53,6 @@
   </tr>
 </table>
 </div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Riutexu&show_icons=true&theme=transparent&title_color=00f2ff&icon_color=ff0055&text_color=ffffff&hide_border=true&include_all_commits=true&count_private=true" height="190" />
-</div>
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=40&section=footer&theme=dark_rainbow" width="100%" />
 </div>
