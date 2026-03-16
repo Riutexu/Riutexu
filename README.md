@@ -11,12 +11,12 @@
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0" width="95%">
   <tr>
-    <img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif"/>
     <td align="center" width="50%" valign="top">
       <img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif"/>
       <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="210" />
       <h2 align="center">◈Hello◈</h2>
       <font size="3"><i>"El que arriesga no gana, y yo nunca gano"</i></font></p>
+   <img src="https://media.tenor.com/CjvPhrcyEtsAAAAm/stars-divider.webp" />
       <h4 align="center">Conexiones</h4>
       <div align="center">
         <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" hspace="5" /></a>
