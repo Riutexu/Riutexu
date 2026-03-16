@@ -1,8 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&text=RIUTEXU%20OVERDRIVE&fontSize=70&fontColor=FFFFFF&theme=dark_rainbow&animation=twinkling" width="100%" />
-</div>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg" width="100%" />
 </div>
 
@@ -32,7 +28,7 @@
       </div>
     </td>
     <td align="center" width="50%" valign="top">
-      <h2 align="center">◈ TECH_ARSENAL ◈</h2>
+      <h2 align="center">◈ Tecnologias aplicadas ◈</h2>
       <p align="center">
         <kbd>Trabajos basicos</kbd><br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="42" />
