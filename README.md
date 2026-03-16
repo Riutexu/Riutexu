@@ -34,21 +34,21 @@
     <td align="center" width="50%" valign="top">
       <h2 align="center">◈ TECH_ARSENAL ◈</h2>
       <p align="center">
-        <kbd>LVL 01: BEGINNER_PHASE</kbd><br><br>
+        <kbd>Trabajos basicos</kbd><br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" title="HTML5" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" title="CSS3" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" title="JavaScript" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="45" title="jQuery" />
       </p>
       <p align="center">
-        <kbd>LVL 02: PROFESSIONAL_GEAR</kbd><br><br>
+        <kbd>Bases de Datos</kbd><br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" title="PHP" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45" title="MySQL" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="45" title="Python" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="45" title="R Language" />
       </p>
       <p align="center">
-        <kbd>LVL 03: OVERDRIVE_SYSTEM</kbd><br><br>
+        <kbd>Avanzado</kbd><br><br>
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45" title="TypeScript" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="45" title="React" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" title="VS Code" />
