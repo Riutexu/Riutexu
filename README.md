@@ -11,14 +11,12 @@
 <div align="center">
 <table border="0" cellpadding="0" cellspacing="0" width="95%">
   <tr>
+    <img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif"/>
     <td align="center" width="50%" valign="top">
       <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="210" />
-      <h2 align="center">◈ SYSTEM_LOG ◈</h2>
-      <img src="https://img.shields.io/badge/RANK-GOD_MODE-ff0055?style=for-the-badge" />
-      <img src="https://img.shields.io/badge/USER-RIUTEXU-00f2ff?style=for-the-badge" />
-      <p align="center"><strong>FULL STACK SHINOBI</strong><br>
+      <h2 align="center">◈Hello◈</h2>
       <font size="3"><i>"El que arriesga no gana, y yo nunca gano"</i></font></p>
-      <h4 align="center">Connect Neurons:</h4>
+      <h4 align="center">Conexiones</h4>
       <div align="center">
         <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="45" hspace="5" /></a>
         <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" hspace="5" /></a>
