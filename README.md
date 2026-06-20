@@ -12,7 +12,6 @@
       <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="160" alt="Player Avatar" /><br>
       <h2><b>[ P L A Y E R_ ]</b></h2>
       <i>"Quien no arriesga no gana,<br>y yo nunca gano"</i><br><br>
-
       <img src="https://media.tenor.com/CjvPhrcyEtsAAAAm/stars-divider.webp" width="80%" /><br>
       <b>[ Conexiones_ ]</b><br><br>
       <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" /></a>
@@ -21,12 +20,10 @@
       <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="35" /></a>
       <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="35" /></a>
     </td>
-
     <td align="center" width="65%" valign="top">
       <b>[ Ponson Sucest / Goal Completion_ ]</b><br><br>
       <img src="https://github-readme-stats.vercel.app/api?username=TuUsuarioDeGithub&theme=tokyonight&hide_border=true&show_icons=true&title_color=b19cd9&icon_color=b19cd9" width="90%" alt="GitHub Stats" />
       <br><br>
-      
       <b>[ Active Quests_ ]</b><br>
       <div align="left" style="padding-left: 20px;">
         <ul>
