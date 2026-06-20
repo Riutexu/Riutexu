@@ -17,16 +17,13 @@
     <td align="center" width="35%" valign="top">
       <img src="https://github.com/Riutexu.png" width="140" style="border-radius: 50%; border: 2px solid #b19cd9;" alt="Profile Avatar" /><br><br>
       <i>"Quien no arriesga no gana,<br>y yo nunca gano."</i><br><br>
-      
       <img src="https://media.tenor.com/CjvPhrcyEtsAAAAm/stars-divider.webp" width="70%" /><br><br>
-      
       <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="28" /></a>&nbsp;
       <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="28" /></a>&nbsp;
       <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="28" /></a>&nbsp;
       <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="28" /></a>&nbsp;
       <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="28" /></a>
     </td>
-
     <td align="center" width="65%" valign="top">
       <img src="https://github-readme-stats.vercel.app/api?username=Riutexu&theme=tokyonight&hide_border=true&show_icons=true&title_color=b19cd9&icon_color=b19cd9&text_color=a9b1d6" width="95%" alt="GitHub Stats" />
       <br><br>
