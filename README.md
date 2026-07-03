@@ -12,10 +12,6 @@
 
 ---
 
-
-
----
-
 <h2 align="center">✦ SOBRE MÍ ✦</h2>
 
 <br>
