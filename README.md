@@ -406,22 +406,10 @@
 
 <br>
 
-<div align="center">
-  <img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif" width="80%" />
-</div>
-
 <br>
 
 <div align="center">
 <img src="https://media.tenor.com/qMwo1n-MFxYAAAAm/moster-energy-drink-monster-meme.webp" width="200" />
 <br><br>
 <sub><b>Gracias por visitar ❤️</b></sub>
-<br><br>
-<sub>🍃 Hecho con paciencia y código</sub>
-</div>
 
-<br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2&height=120&section=footer&fontColor=b19cd9" width="100%" />
-</div>
