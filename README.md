@@ -31,7 +31,7 @@
 <br>
 
 <div align="center">
-<table border="0" width="80%">
+<table border="0" width="85%">
   <tr>
     <td align="center" width="25%">
       <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="180" />
@@ -68,7 +68,6 @@
 <div align="center">
 <table border="0" cellpadding="12" cellspacing="0" width="95%">
 
-  <!-- NIVEL 1 -->
   <tr>
     <td align="center" width="12%" valign="middle">
       <h1>🌱</h1>
@@ -82,8 +81,6 @@
       <img src="https://skillicons.dev/icons?i=html,css,js,jquery&perline=4&theme=dark" />
       <br>
       <sub>HTML5 · CSS3 · JavaScript · jQuery</sub>
-      <br>
-      <sub><b>Landing pages · Portafolios · Sitios estáticos</b></sub>
     </td>
     <td width="30%" align="center" valign="middle">
       <img src="https://img.shields.io/badge/🏅_LOGRO-Maquetador_Web-b19cd9?style=for-the-badge" />
@@ -94,7 +91,6 @@
 
   <tr><td colspan="3" align="center"><br><b>⬇️</b><br><br></td></tr>
 
-  <!-- NIVEL 2 -->
   <tr>
     <td align="center" valign="middle">
       <h1>🏗️</h1>
@@ -109,8 +105,6 @@
       <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square" />
       <br>
       <sub>PHP 8.3 · MariaDB 11.4 · Apache 2.4</sub>
-      <br>
-      <sub><b>CRUDs · Paneles administradores · Sistemas dinámicos con BD</b></sub>
     </td>
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/🏅_LOGRO-Arquitecto_de_Datos-b19cd9?style=for-the-badge" />
@@ -121,7 +115,6 @@
 
   <tr><td colspan="3" align="center"><br><b>⬇️</b><br><br></td></tr>
 
-  <!-- NIVEL 3 -->
   <tr>
     <td align="center" valign="middle">
       <h1>🔐</h1>
@@ -135,8 +128,6 @@
       <img src="https://skillicons.dev/icons?i=ts,react,py,r&perline=4&theme=dark" />
       <br>
       <sub>TypeScript · React · Python · R</sub>
-      <br>
-      <sub><b>OWASP Top 10 · Argon2ID · CSRF · Rate Limiting · Auditoría</b></sub>
     </td>
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/🏅_LOGRO-Guardi%C3%A1n_de_Seguridad-b19cd9?style=for-the-badge" />
@@ -147,7 +138,6 @@
 
   <tr><td colspan="3" align="center"><br><b>⬇️</b><br><br></td></tr>
 
-  <!-- NIVEL 4 -->
   <tr>
     <td align="center" valign="middle">
       <h1>⚙️</h1>
@@ -161,8 +151,6 @@
       <img src="https://skillicons.dev/icons?i=powershell,linux,windows,bash&perline=4&theme=dark" />
       <br>
       <sub>PowerShell 7 · Batch · Windows API · Linux</sub>
-      <br>
-      <sub><b>14 módulos de optimización · 13 temas RGB · TUI engine · 4,600 líneas</b></sub>
     </td>
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/🏅_LOGRO-Arquitecto_de_Sistemas-b19cd9?style=for-the-badge" />
@@ -173,7 +161,6 @@
 
   <tr><td colspan="3" align="center"><br><b>⬇️</b><br><br></td></tr>
 
-  <!-- NIVEL 5 -->
   <tr>
     <td align="center" valign="middle">
       <h1>📱</h1>
@@ -190,18 +177,80 @@
       <img src="https://img.shields.io/badge/-BD_Sincronizadas-00c9a7?style=flat-square" />
       <br>
       <sub>Android · APIs REST · Cifrado extremo a extremo</sub>
-      <br>
-      <sub><b>📱 Apps nativas ⇄ 🔐 API cifrada ⇄ 🗄️ BD</b></sub>
     </td>
     <td align="center" valign="middle">
       <img src="https://img.shields.io/badge/🔒_LOGRO-Bloqueado-666666?style=for-the-badge" />
       <br>
       <sub>⏭️ PRÓXIMO NIVEL</sub>
-      <br>
-      <sub><i>En desarrollo...</i></sub>
     </td>
   </tr>
 
+</table>
+</div>
+
+<br>
+
+---
+
+<h2 align="center">📊 PANEL DE ESTADÍSTICAS 📊</h2>
+
+<br>
+
+<div align="center">
+<table border="0" cellpadding="15" cellspacing="0" width="95%">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Repositorios-3-b19cd9?style=for-the-badge&logo=github" />
+      <br>
+      <sub>Proyectos activos</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Commits-80-b19cd9?style=for-the-badge&logo=git" />
+      <br>
+      <sub>Total en GitHub</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Líneas-4.600+-b19cd9?style=for-the-badge&logo=codefactor" />
+      <br>
+      <sub>Solo RYU-TUI</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Lenguajes-3-b19cd9?style=for-the-badge&logo=javascript" />
+      <br>
+      <sub>Batch · PowerShell · HTML</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Desde-Oct_2024-b19cd9?style=for-the-badge&logo=github" />
+      <br>
+      <sub>En GitHub</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<h3 align="center">📈 Distribución de Lenguajes</h3>
+
+<br>
+
+<div align="center">
+<table border="0" width="70%">
+  <tr>
+    <td width="15%"><b>Batchfile</b></td>
+    <td width="65%"><img src="https://progress-bar.dev/87/?title=&color=b19cd9&width=400" /></td>
+    <td width="20%"><b>87.15%</b></td>
+  </tr>
+  <tr>
+    <td><b>PowerShell</b></td>
+    <td><img src="https://progress-bar.dev/13/?title=&color=d4b8f0&width=400" /></td>
+    <td><b>12.85%</b></td>
+  </tr>
+  <tr>
+    <td><b>HTML</b></td>
+    <td><img src="https://progress-bar.dev/0/?title=&color=7ecb8e&width=400" /></td>
+    <td><b>&lt; 0.01%</b></td>
+  </tr>
 </table>
 </div>
 
@@ -278,7 +327,7 @@
 
 <div align="center">
 
-**ARQUITECTURA ACTUAL (Kike Surveyor)**
+<h3>ARQUITECTURA ACTUAL</h3>
 
 <pre>
 ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐
@@ -289,16 +338,16 @@
 └─────────────────┘      └─────────────────┘      └─────────────────┘
         │                        │                        │
         ▼                        ▼                        ▼
-┌─────────────────────────────────────────────────────────────────────┐
-│                    🔒 CAPA DE SEGURIDAD                             │
-│     Argon2ID  |  CSRF  |  Rate Limiting  |  Session Fingerprint    │
-│     Auditoría  |  HSTS · CSP · XFO  |  Input Sanitizer             │
-└─────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────┐
+│                    🔒 CAPA DE SEGURIDAD                               │
+│     Argon2ID  |  CSRF  |  Rate Limiting  |  Session Fingerprint      │
+│     Auditoría  |  HSTS · CSP · XFO  |  Input Sanitizer               │
+└───────────────────────────────────────────────────────────────────────┘
 </pre>
 
 <br>
 
-**⏭️ PRÓXIMO: ECOSISTEMA MULTIPLATAFORMA**
+<h3>⏭️ PRÓXIMO: ECOSISTEMA MULTIPLATAFORMA</h3>
 
 <pre>
 ┌─────────────────┐      ┌─────────────────┐      ┌─────────────────┐
@@ -309,9 +358,9 @@
 └─────────────────┘      └─────────────────┘      └─────────────────┘
         │                        │                        │
         ▼                        ▼                        ▼
-┌─────────────────────────────────────────────────────────────────────┐
-│            🔄 Cifrado extremo a extremo · Tiempo real               │
-└─────────────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────────────────────────┐
+│            🔄 Cifrado extremo a extremo · Sincronización en tiempo real│
+└───────────────────────────────────────────────────────────────────────┘
 </pre>
 
 <img src="https://img.shields.io/badge/⏭️_En_desarrollo-ff9e64?style=for-the-badge" />
@@ -334,7 +383,7 @@
 
 ---
 
-<h2 align="center">📊 ESTADÍSTICAS DE GITHUB 📊</h2>
+<h2 align="center">📈 ACTIVIDAD EN GITHUB 📈</h2>
 
 <br>
 
@@ -392,7 +441,7 @@
 <br><br>
 <sub><b>Gracias por visitar ❤️</b></sub>
 <br><br>
-<img src="https://img.shields.io/badge/-Hecho_con_%E2%99%A5_en_Venezuela-b19cd9?style=flat-square" />
+<sub>🍃 Hecho con paciencia y código</sub>
 </div>
 
 <br>
