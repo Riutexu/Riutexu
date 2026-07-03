@@ -1,14 +1,28 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2&height=220&section=header&text=Riutexu&fontSize=60&fontColor=b19cd9&animation=twinkling&desc=Desarrollador%20Full%20Stack%20%7C%20PHP%20%7C%20PowerShell%20%7C%20Seguridad&descSize=18&descAlignY=75&descColor=d4b8f0" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+apasionado+por+la+tecnolog%C3%ADa;%F0%9F%92%BB+PHP+%26+JavaScript+%3A+mi+motor+principal;%F0%9F%94%90+Seguridad+OWASP+y+cifrado+Argon2ID;%E2%9A%99%EF%B8%8F+Ingeniero+de+sistemas+con+PowerShell+%2B+Batch;%F0%9F%90%8D+Siempre+aprendiendo+%7C+Pr%C3%B3ximo%3A+Android+%2B+API+cifradas" alt="Typing SVG" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg" width="100%" />
 </div>
 
----
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Riutexu&label=VISITANTES&color=b19cd9&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/Riutexu?label=SEGUIDORES&color=b19cd9&style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/github/stars/Riutexu?label=ESTRELLAS&color=b19cd9&style=for-the-badge&logo=star" />
 </div>
+
+<br>
 
 ---
 
@@ -62,7 +76,7 @@
     <td align="center" width="55%">
       <b>LVL 1 ▰▰▰▰▰▰▰▰▰▰ 100%</b><br>
       <b>Iniciado Web</b><br>
-      <img src="https://progress-bar.dev/100/?title=completado&color=7ecb8e&width=300" /><br>
+      <img src="https://img.shields.io/badge/Completado-100%25-7ecb8e?style=for-the-badge" /><br>
       <img src="https://skillicons.dev/icons?i=html,css,js,jquery&perline=4&theme=dark" /><br>
       <sub>HTML5 · CSS3 · JavaScript · jQuery</sub>
     </td>
@@ -82,7 +96,7 @@
     <td align="center">
       <b>LVL 2 ▰▰▰▰▰▰▰▰▰▰ 100%</b><br>
       <b>Artesano de Datos</b><br>
-      <img src="https://progress-bar.dev/100/?title=completado&color=00d4ff&width=300" /><br>
+      <img src="https://img.shields.io/badge/Completado-100%25-00d4ff?style=for-the-badge" /><br>
       <img src="https://skillicons.dev/icons?i=php,mysql&perline=4&theme=dark" /><br>
       <sub>PHP 8.3 · MariaDB 11.4 · Apache 2.4</sub>
     </td>
@@ -102,7 +116,7 @@
     <td align="center">
       <b>LVL 3 ▰▰▰▰▰▰▰▰▰▰ 100%</b><br>
       <b>Arquitecto de Seguridad</b><br>
-      <img src="https://progress-bar.dev/100/?title=completado&color=ff6b9d&width=300" /><br>
+      <img src="https://img.shields.io/badge/Completado-100%25-ff6b9d?style=for-the-badge" /><br>
       <img src="https://skillicons.dev/icons?i=ts,react,py,r&perline=4&theme=dark" /><br>
       <sub>TypeScript · React · Python · R</sub>
     </td>
@@ -120,9 +134,9 @@
       <h1>⚙️</h1>
     </td>
     <td align="center">
-      <b>LVL 4 ▰▰▰▰▰▰▰▰____ 80%</b><br>
+      <b>LVL 4 ▰▰▰▰▰▰▰▰░░░ 80%</b><br>
       <b>Ingeniero de Sistemas</b><br>
-      <img src="https://progress-bar.dev/80/?title=en+progreso&color=ff9e64&width=300" /><br>
+      <img src="https://img.shields.io/badge/En%20Progreso-80%25-ff9e64?style=for-the-badge" /><br>
       <img src="https://skillicons.dev/icons?i=powershell,linux,windows,bash&perline=4&theme=dark" /><br>
       <sub>PowerShell 7 · Batch · Windows API · Linux</sub>
     </td>
@@ -140,9 +154,9 @@
       <h1>📱</h1>
     </td>
     <td align="center">
-      <b>LVL 5 ▰__________________ 10%</b><br>
+      <b>LVL 5 ▰░░░░░░░░░ 10%</b><br>
       <b>Arquitecto de Ecosistemas</b><br>
-      <img src="https://progress-bar.dev/10/?title=pr%C3%B3ximo&color=ffd700&width=300" /><br>
+      <img src="https://img.shields.io/badge/Pr%C3%B3ximo-10%25-ffd700?style=for-the-badge" /><br>
       <img src="https://skillicons.dev/icons?i=android&perline=4&theme=dark" /><br>
       <sub>Android · APIs REST · Cifrado E2E · BD Sincronizadas</sub>
     </td>
@@ -206,17 +220,17 @@
 <table border="0" width="70%">
   <tr>
     <td width="15%" align="center"><b>Batchfile</b></td>
-    <td width="65%"><img src="https://progress-bar.dev/87/?title=&color=00d4ff&width=400" /></td>
+    <td width="65%"><img src="https://img.shields.io/badge/87%25-00d4ff?style=flat-square&label=" /></td>
     <td width="20%" align="center"><b>87.15%</b></td>
   </tr>
   <tr>
     <td align="center"><b>PowerShell</b></td>
-    <td><img src="https://progress-bar.dev/13/?title=&color=ff6b9d&width=400" /></td>
+    <td><img src="https://img.shields.io/badge/13%25-ff6b9d?style=flat-square&label=" /></td>
     <td align="center"><b>12.85%</b></td>
   </tr>
   <tr>
     <td align="center"><b>HTML</b></td>
-    <td><img src="https://progress-bar.dev/0/?title=&color=7ecb8e&width=400" /></td>
+    <td><img src="https://img.shields.io/badge/%3C0.01%25-7ecb8e?style=flat-square&label=" /></td>
     <td align="center"><b>&lt; 0.01%</b></td>
   </tr>
 </table>
