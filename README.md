@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2&height=220&section=header&text=Riutexu&fontSize=60&fontColor=b19cd9&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20PHP%20%7C%20PowerShell%20%7C%20Seguridad&descSize=18&descAlignY=75&descColor=d4b8f0" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2&height=220&section=header&text=Riutexu&fontSize=60&fontColor=b19cd9&animation=twinkling&desc=Desarrollador%20Full%20Stack%20%7C%20PHP%20%7C%20PowerShell%20%7C%20Seguridad&descSize=18&descAlignY=75&descColor=d4b8f0" width="100%" />
 </div>
 
 <br>
@@ -67,21 +67,22 @@
 
 <div align="center">
 
-<table border="0" cellpadding="12" cellspacing="0" width="95%">
+<table border="0" cellpadding="10" cellspacing="0" width="95%">
 
   <tr>
     <td align="center" width="15%">
       <h1>🌱</h1>
-      <h3>NIVEL 1</h3>
     </td>
     <td align="center" width="55%">
-      <b>Web Initiate</b><br>
+      <b>LVL 1 ▰▰▰▰▰▰▰▰▰▰ 100%</b><br>
+      <b>Iniciado Web</b><br>
       <img src="https://progress-bar.dev/100/?title=completado&color=7ecb8e&width=300" /><br>
       <img src="https://skillicons.dev/icons?i=html,css,js,jquery&perline=4&theme=dark" /><br>
       <sub>HTML5 · CSS3 · JavaScript · jQuery</sub>
     </td>
     <td align="center" width="30%">
-      <img src="https://img.shields.io/badge/🏅_LOGRO-Maquetador_Web-7ecb8e?style=for-the-badge" /><br>
+      <b>🏅 LOGRO</b><br>
+      <sub>Maquetador Web</sub><br>
       <sub>📁 Riutexu/Riutexu</sub>
     </td>
   </tr>
@@ -91,17 +92,17 @@
   <tr>
     <td align="center">
       <h1>🏗️</h1>
-      <h3>NIVEL 2</h3>
     </td>
     <td align="center">
-      <b>Data Artisan</b><br>
+      <b>LVL 2 ▰▰▰▰▰▰▰▰▰▰ 100%</b><br>
+      <b>Artesano de Datos</b><br>
       <img src="https://progress-bar.dev/100/?title=completado&color=00d4ff&width=300" /><br>
-      <img src="https://skillicons.dev/icons?i=php,mysql&perline=4&theme=dark" />
-      <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square" /><br>
+      <img src="https://skillicons.dev/icons?i=php,mysql&perline=4&theme=dark" /><br>
       <sub>PHP 8.3 · MariaDB 11.4 · Apache 2.4</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🏅_LOGRO-Arquitecto_de_Datos-00d4ff?style=for-the-badge" /><br>
+      <b>🏅 LOGRO</b><br>
+      <sub>Arquitecto de Datos</sub><br>
       <sub>📁 Kike-Surveyor</sub>
     </td>
   </tr>
@@ -111,17 +112,18 @@
   <tr>
     <td align="center">
       <h1>🔐</h1>
-      <h3>NIVEL 3</h3>
     </td>
     <td align="center">
-      <b>Security Architect</b><br>
+      <b>LVL 3 ▰▰▰▰▰▰▰▰▰▰ 100%</b><br>
+      <b>Arquitecto de Seguridad</b><br>
       <img src="https://progress-bar.dev/100/?title=completado&color=ff6b9d&width=300" /><br>
       <img src="https://skillicons.dev/icons?i=ts,react,py,r&perline=4&theme=dark" /><br>
       <sub>TypeScript · React · Python · R</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🏅_LOGRO-Guardi%C3%A1n_de_Seguridad-ff6b9d?style=for-the-badge" /><br>
-      <sub>📁 Kike-Surveyor (Hardening)</sub>
+      <b>🏅 LOGRO</b><br>
+      <sub>Guardián de Seguridad</sub><br>
+      <sub>📁 Kike-Surveyor</sub>
     </td>
   </tr>
 
@@ -130,17 +132,18 @@
   <tr>
     <td align="center">
       <h1>⚙️</h1>
-      <h3>NIVEL 4</h3>
     </td>
     <td align="center">
-      <b>Systems Engineer</b><br>
+      <b>LVL 4 ▰▰▰▰▰▰▰▰░░░ 80%</b><br>
+      <b>Ingeniero de Sistemas</b><br>
       <img src="https://progress-bar.dev/80/?title=en+progreso&color=ff9e64&width=300" /><br>
       <img src="https://skillicons.dev/icons?i=powershell,linux,windows,bash&perline=4&theme=dark" /><br>
       <sub>PowerShell 7 · Batch · Windows API · Linux</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🏅_LOGRO-Arquitecto_de_Sistemas-ff9e64?style=for-the-badge" /><br>
-      <sub>📁 Terminal-TUI (RYU-TUI v3.0)</sub>
+      <b>🏅 LOGRO</b><br>
+      <sub>Arquitecto de Sistemas</sub><br>
+      <sub>📁 Terminal-TUI</sub>
     </td>
   </tr>
 
@@ -149,19 +152,17 @@
   <tr>
     <td align="center">
       <h1>📱</h1>
-      <h3>NIVEL 5</h3>
     </td>
     <td align="center">
-      <b>Ecosystem Architect</b><br>
+      <b>LVL 5 ▰░░░░░░░░░ 10%</b><br>
+      <b>Arquitecto de Ecosistemas</b><br>
       <img src="https://progress-bar.dev/10/?title=pr%C3%B3ximo&color=ffd700&width=300" /><br>
-      <img src="https://skillicons.dev/icons?i=android&perline=4&theme=dark" />
-      <img src="https://img.shields.io/badge/-API_REST-ff6b6b?style=flat-square" />
-      <img src="https://img.shields.io/badge/-Cifrado_E2E-845ec2?style=flat-square" />
-      <img src="https://img.shields.io/badge/-BD_Sincronizadas-00c9a7?style=flat-square" /><br>
-      <sub>Android · APIs REST · Cifrado extremo a extremo</sub>
+      <img src="https://skillicons.dev/icons?i=android&perline=4&theme=dark" /><br>
+      <sub>Android · APIs REST · Cifrado E2E · BD Sincronizadas</sub>
     </td>
     <td align="center">
-      <img src="https://img.shields.io/badge/🔒_LOGRO-Bloqueado-666666?style=for-the-badge" /><br>
+      <b>🔒 LOGRO</b><br>
+      <sub>Bloqueado</sub><br>
       <sub>⏭️ PRÓXIMO NIVEL</sub>
     </td>
   </tr>
@@ -191,7 +192,7 @@
       <sub>Total en GitHub</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Líneas-4.600+-ff6b9d?style=for-the-badge&logo=codefactor" />
+      <img src="https://img.shields.io/badge/L%C3%ADneas-4.600+-ff6b9d?style=for-the-badge&logo=codefactor" />
       <br>
       <sub>Solo RYU-TUI</sub>
     </td>
@@ -257,7 +258,7 @@
         • CRUD completo con búsqueda y paginación<br>
         • OWASP Top 10 mitigado al 100%<br>
         • Argon2ID · CSRF · Rate Limiting progresivo<br>
-        • Caché JSON con LRU y 85%+ hit ratio<br>
+        • Caché JSON con LRU y 85%+ efectividad<br>
         • API REST para analytics
       </p>
       <p>
@@ -282,7 +283,7 @@
         • Motor TUI con degradado RGB y animaciones<br>
         • 14 módulos: optimización, privacidad, seguridad<br>
         • Perfiles Gaming/Privacy/Balanced/Aggressive<br>
-        • Escáner de hardware con scoring (0-100)<br>
+        • Escáner de hardware con puntuación (0-100)<br>
         • GPL-3.0 · ~4,600 líneas de código
       </p>
       <p>
