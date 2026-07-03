@@ -1,10 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2&height=220&section=header&text=Riutexu&fontSize=60&fontColor=b19cd9&animation=twinkling&desc=Desarrollador%20Full%20Stack%20%7C%20PHP%20%7C%20PowerShell%20%7C%20Seguridad&descSize=18&descAlignY=75&descColor=d4b8f0" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+apasionado+por+la+tecnolog%C3%ADa;%F0%9F%92%BB+PHP+%26+JavaScript+%3A+mi+motor+principal;%F0%9F%94%90+Seguridad+OWASP+y+cifrado+Argon2ID;%E2%9A%99%EF%B8%8F+Ingeniero+de+sistemas+con+PowerShell+%2B+Batch;%F0%9F%90%8D+Siempre+aprendiendo+%7C+Pr%C3%B3ximo%3A+Android+%2B+API+cifradas" alt="Typing SVG" />
 </div>
 
@@ -134,7 +128,7 @@
       <h1>⚙️</h1>
     </td>
     <td align="center">
-      <b>LVL 4 ▰▰▰▰▰▰▰▰░░░ 80%</b><br>
+      <b>LVL 4 ▰▰▰▰▰▰▰▰____ 80%</b><br>
       <b>Ingeniero de Sistemas</b><br>
       <img src="https://img.shields.io/badge/En%20Progreso-80%25-ff9e64?style=for-the-badge" /><br>
       <img src="https://skillicons.dev/icons?i=powershell,linux,windows,bash&perline=4&theme=dark" /><br>
@@ -154,7 +148,7 @@
       <h1>📱</h1>
     </td>
     <td align="center">
-      <b>LVL 5 ▰░░░░░░░░░ 10%</b><br>
+      <b>LVL 5 ▰________________ 10%</b><br>
       <b>Arquitecto de Ecosistemas</b><br>
       <img src="https://img.shields.io/badge/Pr%C3%B3ximo-10%25-ffd700?style=for-the-badge" /><br>
       <img src="https://skillicons.dev/icons?i=android&perline=4&theme=dark" /><br>
