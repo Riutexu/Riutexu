@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg" width="100%" />
 </div>
 
-<br>
+---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Riutexu&label=VISITANTES&color=b19cd9&style=for-the-badge" />
@@ -10,7 +10,9 @@
   <img src="https://img.shields.io/github/stars/Riutexu?label=ESTRELLAS&color=b19cd9&style=for-the-badge&logo=star" />
 </div>
 
-<br>
+---
+
+
 
 ---
 
