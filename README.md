@@ -120,7 +120,7 @@
       <h1>⚙️</h1>
     </td>
     <td align="center">
-      <b>LVL 4 ▰▰▰▰▰▰▰▰░░░ 80%</b><br>
+      <b>LVL 4 ▰▰▰▰▰▰▰▰____ 80%</b><br>
       <b>Ingeniero de Sistemas</b><br>
       <img src="https://progress-bar.dev/80/?title=en+progreso&color=ff9e64&width=300" /><br>
       <img src="https://skillicons.dev/icons?i=powershell,linux,windows,bash&perline=4&theme=dark" /><br>
@@ -140,7 +140,7 @@
       <h1>📱</h1>
     </td>
     <td align="center">
-      <b>LVL 5 ▰░░░░░░░░░ 10%</b><br>
+      <b>LVL 5 ▰__________________ 10%</b><br>
       <b>Arquitecto de Ecosistemas</b><br>
       <img src="https://progress-bar.dev/10/?title=pr%C3%B3ximo&color=ffd700&width=300" /><br>
       <img src="https://skillicons.dev/icons?i=android&perline=4&theme=dark" /><br>
