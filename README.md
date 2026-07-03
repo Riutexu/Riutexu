@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2&height=220&section=header&text=Riutexu&fontSize=60&fontColor=b19cd9&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20PHP%20%7C%20PowerShell%20%7C%20Seguridad&descSize=18&descAlignY=75&descColor=d4b8f0" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+apasionado+por+la+tecnolog%C3%ADa;%F0%9F%92%BB+PHP+%26+JavaScript+%3A+mi+motor+principal;%F0%9F%94%90+Seguridad+OWASP+y+cifrado+Argon2ID;%E2%9A%99%EF%B8%8F+Ingeniero+de+sistemas+con+PowerShell+%2B+Batch;%F0%9F%90%8D+Siempre+aprendiendo+%7C+Pr%C3%B3ximo%3A+Android+%2B+API+cifradas" alt="Typing SVG" />
 </div>
 
@@ -37,11 +43,11 @@
         Me apasiona el código limpio, la seguridad informática y optimizar todo lo que toco.
       </p>
       <p>
-        <code>💻 Full Stack</code>
-        <code>🔐 Seguridad</code>
-        <code>⚙️ Automatización</code>
-        <code>🐍 Python</code>
-        <code>📊 Data</code>
+        <img src="https://img.shields.io/badge/💻_Full_Stack-7ecb8e?style=flat-square" />
+        <img src="https://img.shields.io/badge/🔐_Seguridad-00d4ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/⚙️_Automatización-ff6b9d?style=flat-square" />
+        <img src="https://img.shields.io/badge/🐍_Python-ff9e64?style=flat-square" />
+        <img src="https://img.shields.io/badge/📊_Data-ffd700?style=flat-square" />
       </p>
       <p>
         <i>"Quien no arriesga no gana, y yo nunca gano"</i>
@@ -60,25 +66,22 @@
 <br>
 
 <div align="center">
+
 <table border="0" cellpadding="12" cellspacing="0" width="95%">
 
   <tr>
-    <td align="center" width="12%" valign="middle">
+    <td align="center" width="15%">
       <h1>🌱</h1>
       <h3>NIVEL 1</h3>
     </td>
-    <td width="58%" valign="middle">
-      <b>Web Initiate</b>
-      <br>
-      <img src="https://progress-bar.dev/100/?title=completado&color=b19cd9&width=300" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=html,css,js,jquery&perline=4&theme=dark" />
-      <br>
+    <td align="center" width="55%">
+      <b>Web Initiate</b><br>
+      <img src="https://progress-bar.dev/100/?title=completado&color=7ecb8e&width=300" /><br>
+      <img src="https://skillicons.dev/icons?i=html,css,js,jquery&perline=4&theme=dark" /><br>
       <sub>HTML5 · CSS3 · JavaScript · jQuery</sub>
     </td>
-    <td width="30%" align="center" valign="middle">
-      <img src="https://img.shields.io/badge/🏅_LOGRO-Maquetador_Web-b19cd9?style=for-the-badge" />
-      <br>
+    <td align="center" width="30%">
+      <img src="https://img.shields.io/badge/🏅_LOGRO-Maquetador_Web-7ecb8e?style=for-the-badge" /><br>
       <sub>📁 Riutexu/Riutexu</sub>
     </td>
   </tr>
@@ -86,23 +89,19 @@
   <tr><td colspan="3" align="center"><br><b>⬇️</b><br><br></td></tr>
 
   <tr>
-    <td align="center" valign="middle">
+    <td align="center">
       <h1>🏗️</h1>
       <h3>NIVEL 2</h3>
     </td>
-    <td valign="middle">
-      <b>Data Artisan</b>
-      <br>
-      <img src="https://progress-bar.dev/100/?title=completado&color=b19cd9&width=300" />
-      <br>
+    <td align="center">
+      <b>Data Artisan</b><br>
+      <img src="https://progress-bar.dev/100/?title=completado&color=00d4ff&width=300" /><br>
       <img src="https://skillicons.dev/icons?i=php,mysql&perline=4&theme=dark" />
-      <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square" />
-      <br>
+      <img src="https://img.shields.io/badge/-Apache-D22128?logo=apache&logoColor=white&style=flat-square" /><br>
       <sub>PHP 8.3 · MariaDB 11.4 · Apache 2.4</sub>
     </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/🏅_LOGRO-Arquitecto_de_Datos-b19cd9?style=for-the-badge" />
-      <br>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏅_LOGRO-Arquitecto_de_Datos-00d4ff?style=for-the-badge" /><br>
       <sub>📁 Kike-Surveyor</sub>
     </td>
   </tr>
@@ -110,22 +109,18 @@
   <tr><td colspan="3" align="center"><br><b>⬇️</b><br><br></td></tr>
 
   <tr>
-    <td align="center" valign="middle">
+    <td align="center">
       <h1>🔐</h1>
       <h3>NIVEL 3</h3>
     </td>
-    <td valign="middle">
-      <b>Security Architect</b>
-      <br>
-      <img src="https://progress-bar.dev/100/?title=completado&color=b19cd9&width=300" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=ts,react,py,r&perline=4&theme=dark" />
-      <br>
+    <td align="center">
+      <b>Security Architect</b><br>
+      <img src="https://progress-bar.dev/100/?title=completado&color=ff6b9d&width=300" /><br>
+      <img src="https://skillicons.dev/icons?i=ts,react,py,r&perline=4&theme=dark" /><br>
       <sub>TypeScript · React · Python · R</sub>
     </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/🏅_LOGRO-Guardi%C3%A1n_de_Seguridad-b19cd9?style=for-the-badge" />
-      <br>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏅_LOGRO-Guardi%C3%A1n_de_Seguridad-ff6b9d?style=for-the-badge" /><br>
       <sub>📁 Kike-Surveyor (Hardening)</sub>
     </td>
   </tr>
@@ -133,22 +128,18 @@
   <tr><td colspan="3" align="center"><br><b>⬇️</b><br><br></td></tr>
 
   <tr>
-    <td align="center" valign="middle">
+    <td align="center">
       <h1>⚙️</h1>
       <h3>NIVEL 4</h3>
     </td>
-    <td valign="middle">
-      <b>Systems Engineer</b>
-      <br>
-      <img src="https://progress-bar.dev/80/?title=en+progreso&color=b19cd9&width=300" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=powershell,linux,windows,bash&perline=4&theme=dark" />
-      <br>
+    <td align="center">
+      <b>Systems Engineer</b><br>
+      <img src="https://progress-bar.dev/80/?title=en+progreso&color=ff9e64&width=300" /><br>
+      <img src="https://skillicons.dev/icons?i=powershell,linux,windows,bash&perline=4&theme=dark" /><br>
       <sub>PowerShell 7 · Batch · Windows API · Linux</sub>
     </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/🏅_LOGRO-Arquitecto_de_Sistemas-b19cd9?style=for-the-badge" />
-      <br>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏅_LOGRO-Arquitecto_de_Sistemas-ff9e64?style=for-the-badge" /><br>
       <sub>📁 Terminal-TUI (RYU-TUI v3.0)</sub>
     </td>
   </tr>
@@ -156,25 +147,21 @@
   <tr><td colspan="3" align="center"><br><b>⬇️</b><br><br></td></tr>
 
   <tr>
-    <td align="center" valign="middle">
+    <td align="center">
       <h1>📱</h1>
       <h3>NIVEL 5</h3>
     </td>
-    <td valign="middle">
-      <b>Ecosystem Architect</b>
-      <br>
-      <img src="https://progress-bar.dev/10/?title=pr%C3%B3ximo&color=ff9e64&width=300" />
-      <br>
+    <td align="center">
+      <b>Ecosystem Architect</b><br>
+      <img src="https://progress-bar.dev/10/?title=pr%C3%B3ximo&color=ffd700&width=300" /><br>
       <img src="https://skillicons.dev/icons?i=android&perline=4&theme=dark" />
       <img src="https://img.shields.io/badge/-API_REST-ff6b6b?style=flat-square" />
       <img src="https://img.shields.io/badge/-Cifrado_E2E-845ec2?style=flat-square" />
-      <img src="https://img.shields.io/badge/-BD_Sincronizadas-00c9a7?style=flat-square" />
-      <br>
+      <img src="https://img.shields.io/badge/-BD_Sincronizadas-00c9a7?style=flat-square" /><br>
       <sub>Android · APIs REST · Cifrado extremo a extremo</sub>
     </td>
-    <td align="center" valign="middle">
-      <img src="https://img.shields.io/badge/🔒_LOGRO-Bloqueado-666666?style=for-the-badge" />
-      <br>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🔒_LOGRO-Bloqueado-666666?style=for-the-badge" /><br>
       <sub>⏭️ PRÓXIMO NIVEL</sub>
     </td>
   </tr>
@@ -194,27 +181,27 @@
 <table border="0" cellpadding="15" cellspacing="0" width="95%">
   <tr>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Repositorios-3-b19cd9?style=for-the-badge&logo=github" />
+      <img src="https://img.shields.io/badge/Repositorios-3-7ecb8e?style=for-the-badge&logo=github" />
       <br>
       <sub>Proyectos activos</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Commits-80-b19cd9?style=for-the-badge&logo=git" />
+      <img src="https://img.shields.io/badge/Commits-80-00d4ff?style=for-the-badge&logo=git" />
       <br>
       <sub>Total en GitHub</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Líneas-4.600+-b19cd9?style=for-the-badge&logo=codefactor" />
+      <img src="https://img.shields.io/badge/Líneas-4.600+-ff6b9d?style=for-the-badge&logo=codefactor" />
       <br>
       <sub>Solo RYU-TUI</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Lenguajes-3-b19cd9?style=for-the-badge&logo=javascript" />
+      <img src="https://img.shields.io/badge/Lenguajes-3-ff9e64?style=for-the-badge&logo=javascript" />
       <br>
       <sub>Batch · PowerShell · HTML</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Desde-Oct_2024-b19cd9?style=for-the-badge&logo=github" />
+      <img src="https://img.shields.io/badge/Desde-Oct_2024-ffd700?style=for-the-badge&logo=github" />
       <br>
       <sub>En GitHub</sub>
     </td>
@@ -231,19 +218,19 @@
 <div align="center">
 <table border="0" width="70%">
   <tr>
-    <td width="15%"><b>Batchfile</b></td>
-    <td width="65%"><img src="https://progress-bar.dev/87/?title=&color=b19cd9&width=400" /></td>
-    <td width="20%"><b>87.15%</b></td>
+    <td width="15%" align="center"><b>Batchfile</b></td>
+    <td width="65%"><img src="https://progress-bar.dev/87/?title=&color=00d4ff&width=400" /></td>
+    <td width="20%" align="center"><b>87.15%</b></td>
   </tr>
   <tr>
-    <td><b>PowerShell</b></td>
-    <td><img src="https://progress-bar.dev/13/?title=&color=d4b8f0&width=400" /></td>
-    <td><b>12.85%</b></td>
+    <td align="center"><b>PowerShell</b></td>
+    <td><img src="https://progress-bar.dev/13/?title=&color=ff6b9d&width=400" /></td>
+    <td align="center"><b>12.85%</b></td>
   </tr>
   <tr>
-    <td><b>HTML</b></td>
+    <td align="center"><b>HTML</b></td>
     <td><img src="https://progress-bar.dev/0/?title=&color=7ecb8e&width=400" /></td>
-    <td><b>&lt; 0.01%</b></td>
+    <td align="center"><b>&lt; 0.01%</b></td>
   </tr>
 </table>
 </div>
@@ -259,7 +246,7 @@
 <div align="center">
 <table border="0" cellpadding="15" cellspacing="0" width="95%">
   <tr>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="50%">
       <h3>🗺️ Kike Surveyor v3.1</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=php,mysql,js&perline=3&theme=dark" />
@@ -284,7 +271,7 @@
       </p>
     </td>
     <td width="5%"></td>
-    <td align="center" width="50%" valign="top">
+    <td align="center" width="50%">
       <h3>⚙️ RYU-TUI v3.0</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=powershell,linux,windows&perline=3&theme=dark" />
