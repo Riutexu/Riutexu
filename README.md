@@ -352,7 +352,20 @@
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Riutexu&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&title_color=b19cd9&icon_color=b19cd9&text_color=a9b1d6" width="100%" />
+  <table border="0" cellpadding="8" cellspacing="0" width="80%">
+    <tr>
+      <td align="center" width="10%"><b>🏅</b></td>
+      <td align="left" width="40%"><b>Repositorio Fundador</b><br><sub>Mar 2025</sub></td>
+      <td align="center" width="10%"><b>⚡</b></td>
+      <td align="left" width="40%"><b>80+ Commits</b><br><sub>Oct 2024 — Presente</sub></td>
+    </tr>
+    <tr>
+      <td align="center"><b>🏗️</b></td>
+      <td align="left"><b>3 Proyectos Públicos</b><br><sub>Batchfile · PowerShell · HTML</sub></td>
+      <td align="center"><b>📅</b></td>
+      <td align="left"><b>Miembro desde 2024</b><br><sub>1 año en GitHub</sub></td>
+    </tr>
+  </table>
 </div>
 
 <br>
@@ -406,10 +419,13 @@
 
 <br>
 
+<div align="center">
+  <img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif" width="80%" />
+</div>
+
 <br>
 
 <div align="center">
 <img src="https://media.tenor.com/qMwo1n-MFxYAAAAm/moster-energy-drink-monster-meme.webp" width="200" />
 <br><br>
 <sub><b>Gracias por visitar ❤️</b></sub>
-
