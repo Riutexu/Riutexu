@@ -1,16 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=gradient&customColorList=2&height=220&section=header&text=Riutexu&fontSize=60&fontColor=b19cd9&animation=twinkling&desc=Desarrollador%20Full%20Stack%20%7C%20PHP%20%7C%20PowerShell%20%7C%20Seguridad&descSize=18&descAlignY=75&descColor=d4b8f0" width="100%" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+apasionado+por+la+tecnolog%C3%ADa;%F0%9F%92%BB+PHP+%26+JavaScript+%3A+mi+motor+principal;%F0%9F%94%90+Seguridad+OWASP+y+cifrado+Argon2ID;%E2%9A%99%EF%B8%8F+Ingeniero+de+sistemas+con+PowerShell+%2B+Batch;%F0%9F%90%8D+Siempre+aprendiendo+%7C+Pr%C3%B3ximo%3A+Android+%2B+API+cifradas" alt="Typing SVG" />
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg" width="100%" />
 </div>
 
