@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+apasionado+por+la+tecnolog%C3%ADa;%F0%9F%92%BB+PHP+%26+JavaScript+%3A+mi+motor+principal;%F0%9F%94%90+Seguridad+OWASP+y+cifrado+Argon2ID;%E2%9A%99%EF%B8%8F+Ingeniero+de+sistemas+con+PowerShell+%2B+Batch;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+apasionado+por+la+tecnolog%C3%ADa;%F0%9F%92%BB+PHP+%26+JavaScript+%3A+mi+motor+principal;%F0%9F%94%90+Seguridad+OWASP+y+cifrado+Argon2ID;%E2%9A%99%EF%B8%8F+Ingeniero+de+sistemas+con+PowerShell+%2B+Batch;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado" alt="Typing SVG: presentación de Riutexu" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg" width="100%" alt="Gráfico de contribuciones estilo pacman" />
 </div>
 
 <br>
@@ -28,7 +28,7 @@
 <table border="0" width="85%">
   <tr>
     <td align="center" width="25%">
-      <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="180" />
+      <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="180" alt="Avatar animado" />
     </td>
     <td align="left" width="75%">
       <p>
@@ -177,24 +177,24 @@
 <table border="0" cellpadding="15" cellspacing="0" width="95%">
   <tr>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Repositorios-6-7ecb8e?style=for-the-badge&logo=github" />
+      <img src="https://img.shields.io/badge/Repositorios-7-7ecb8e?style=for-the-badge&logo=github" />
       <br>
       <sub>Proyectos activos</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Commits-80+-00d4ff?style=for-the-badge&logo=git" />
+      <img src="https://img.shields.io/badge/Commits-109-00d4ff?style=for-the-badge&logo=git" />
       <br>
       <sub>Total en GitHub</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Líneas-4.600+-ff6b9d?style=for-the-badge&logo=codefactor" />
+      <img src="https://img.shields.io/badge/L%C3%ADneas-4.600+-ff6b9d?style=for-the-badge&logo=codefactor" />
       <br>
       <sub>Solo RYU-TUI</sub>
     </td>
     <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Lenguajes-4-ff9e64?style=for-the-badge&logo=javascript" />
+      <img src="https://img.shields.io/badge/Lenguajes-7-ff9e64?style=for-the-badge&logo=javascript" />
       <br>
-      <sub>Kotlin · Batch · PowerShell · HTML</sub>
+      <sub>Batch · Kotlin · PowerShell · HTML · JS · TS · CSS</sub>
     </td>
     <td align="center" width="20%">
       <img src="https://img.shields.io/badge/Desde-Oct_2024-ffd700?style=for-the-badge&logo=github" />
@@ -215,8 +215,8 @@
 <table border="0" width="70%">
   <tr>
     <td width="15%" align="center"><b>Batchfile</b></td>
-    <td width="65%"><img src="https://img.shields.io/badge/79%25-00d4ff?style=flat-square&label=" /></td>
-    <td width="20%" align="center"><b>79.12%</b></td>
+    <td width="65%"><img src="https://img.shields.io/badge/68%25-00d4ff?style=flat-square&label=" /></td>
+    <td width="20%" align="center"><b>68.12%</b></td>
   </tr>
   <tr>
     <td align="center"><b>Kotlin</b></td>
@@ -226,14 +226,16 @@
   <tr>
     <td align="center"><b>PowerShell</b></td>
     <td><img src="https://img.shields.io/badge/10%25-ff6b9d?style=flat-square&label=" /></td>
-    <td align="center"><b>9.80%</b></td>
+    <td align="center"><b>10.05%</b></td>
   </tr>
   <tr>
     <td align="center"><b>HTML</b></td>
-    <td><img src="https://img.shields.io/badge/%3C0.01%25-7ecb8e?style=flat-square&label=" /></td>
-    <td align="center"><b>&lt; 0.01%</b></td>
+    <td><img src="https://img.shields.io/badge/4%25-7ecb8e?style=flat-square&label=" /></td>
+    <td align="center"><b>3.69%</b></td>
   </tr>
 </table>
+<br>
+<sub>* Cifras reales de GitHub por bytes de código · actualizadas Ago 2026</sub>
 </div>
 
 <br>
@@ -387,11 +389,11 @@
       <td align="center" width="10%"><b>🎧</b></td>
       <td align="left" width="40%"><b>Primera App Android</b><br><sub>Ryutify · Streaming de música · 2026</sub></td>
       <td align="center" width="10%"><b>📦</b></td>
-      <td align="left" width="40%"><b>80+ Commits</b><br><sub>Oct 2024 - Presente</sub></td>
+      <td align="left" width="40%"><b>109 Commits</b><br><sub>Oct 2024 - Presente</sub></td>
     </tr>
     <tr>
       <td align="center"><b>🚀</b></td>
-      <td align="left"><b>6 Repositorios Públicos</b><br><sub>Kotlin · Batch · PowerShell · HTML</sub></td>
+      <td align="left"><b>7 Repositorios Públicos</b><br><sub>Kotlin · Batch · PowerShell · HTML</sub></td>
       <td align="center"><b>🐙</b></td>
       <td align="left"><b>Miembro desde 2024</b><br><sub>1+ año en GitHub</sub></td>
     </tr>
@@ -410,16 +412,16 @@
   <table border="0" cellpadding="10" cellspacing="0" width="95%">
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riutexu&theme=tokyonight" width="95%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riutexu&theme=tokyonight" width="95%" alt="Estadísticas de perfil" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riutexu&theme=tokyonight&hide_border=true&stroke=b19cd9&ring=b19cd9&fire=b19cd9&currStreakLabel=b19cd9&background=0d1117" width="95%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riutexu&theme=tokyonight&hide_border=true&stroke=b19cd9&ring=b19cd9&fire=b19cd9&currStreakLabel=b19cd9&background=0d1117" width="95%" alt="Racha de contribuciones" />
       </td>
     </tr>
     <tr>
       <td align="center" colspan="2">
         <br>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riutexu&theme=tokyonight" width="70%" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riutexu&theme=tokyonight" width="70%" alt="Lenguajes por repositorio" />
       </td>
     </tr>
   </table>
@@ -428,7 +430,7 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riutexu&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=b19cd9&line=b19cd9&point=ffffff&area_color=b19cd9" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riutexu&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=b19cd9&line=b19cd9&point=ffffff&area_color=b19cd9" width="95%" alt="Gráfico de actividad" />
 </div>
 
 <br>
@@ -440,23 +442,23 @@
 <br>
 
 <div align="center">
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" /></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" /></a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="Twitch" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif" width="80%" />
+  <img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif" width="80%" alt="Separador animado" />
 </div>
 
 <br>
 
 <div align="center">
-<img src="https://media.tenor.com/qMwo1n-MFxYAAAAm/moster-energy-drink-monster-meme.webp" width="200" />
+<img src="https://media.tenor.com/qMwo1n-MFxYAAAAm/moster-energy-drink-monster-meme.webp" width="200" alt="Meme Monster Energy" />
 <br><br>
 <sub><b>Gracias por visitar 🐍</b></sub>
 </div>
