@@ -56,6 +56,158 @@
 
 ---
 
+<h2 align="center">📊 PANEL DE ESTADÍSTICAS 📊</h2>
+
+<br>
+
+<div align="center">
+<table border="0" cellpadding="15" cellspacing="0" width="95%">
+  <tr>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Repositorios-7-7ecb8e?style=for-the-badge&logo=github" />
+      <br>
+      <sub>Proyectos activos</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Commits-109-00d4ff?style=for-the-badge&logo=git" />
+      <br>
+      <sub>Total en GitHub</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/L%C3%ADneas-4.600+-ff6b9d?style=for-the-badge&logo=codefactor" />
+      <br>
+      <sub>Solo RYU-TUI</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Lenguajes-7-ff9e64?style=for-the-badge&logo=javascript" />
+      <br>
+      <sub>Batch · Kotlin · PowerShell · HTML · JS · TS · CSS</sub>
+    </td>
+    <td align="center" width="20%">
+      <img src="https://img.shields.io/badge/Desde-Oct_2024-ffd700?style=for-the-badge&logo=github" />
+      <br>
+      <sub>En GitHub</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+<h3 align="center">📈 Distribución de Lenguajes</h3>
+
+<br>
+
+<div align="center">
+<table border="0" width="70%">
+  <tr>
+    <td width="15%" align="center"><b>Batchfile</b></td>
+    <td width="65%"><img src="https://img.shields.io/badge/68%25-00d4ff?style=flat-square&label=" /></td>
+    <td width="20%" align="center"><b>68.12%</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Kotlin</b></td>
+    <td><img src="https://img.shields.io/badge/11%25-3ddc84?style=flat-square&label=" /></td>
+    <td align="center"><b>11.06%</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>PowerShell</b></td>
+    <td><img src="https://img.shields.io/badge/10%25-ff6b9d?style=flat-square&label=" /></td>
+    <td align="center"><b>10.05%</b></td>
+  </tr>
+  <tr>
+    <td align="center"><b>HTML</b></td>
+    <td><img src="https://img.shields.io/badge/4%25-7ecb8e?style=flat-square&label=" /></td>
+    <td align="center"><b>3.69%</b></td>
+  </tr>
+</table>
+<br>
+<sub>* Cifras reales de GitHub por bytes de código · actualizadas Ago 2026</sub>
+</div>
+
+<br>
+
+---
+
+<h2 align="center">🗂️ MÁS PROYECTOS 🗂️</h2>
+
+<br>
+
+<div align="center">
+<table border="0" cellpadding="15" cellspacing="0" width="95%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🎮 Steam Library</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=windows,git,github&perline=3&theme=dark" />
+      </p>
+      <p align="left">
+        <b>Colección de juegos organizada profesionalmente</b><br>
+        ▪ Catálogo en constante expansión<br>
+        ▪ Clasificación por género, desarrollador y estilo<br>
+        ▪ Franquicias Valve y shooters completos<br>
+        ▪ Sección única por producto, sin duplicados
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/Riutexu/MIS-JUEGOS-DE-STEAM"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+      </p>
+    </td>
+    <td width="0.5%"></td>
+    <td align="center" width="33%">
+      <h3>🤖 Cow-BOT</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,discord,linux,bash&perline=4&theme=dark" />
+      </p>
+      <p align="left">
+        <b>Bot de Discord que escucha tu voz y responde por ti</b><br>
+        ▪ Transcripción de voz con Whisper STT<br>
+        ▪ Conversación con OpenRouter AI<br>
+        ▪ Respuestas como usuario humano vía webhook<br>
+        ▪ TTS lee las respuestas en el canal de voz<br>
+        ▪ Detección de actividad de voz (VAD)
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/Whisper-412991?logo=openai&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/OpenRouter_AI-8B5CF6?style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/Riutexu/COWBOT-"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+      </p>
+    </td>
+    <td width="0.5%"></td>
+    <td align="center" width="33%">
+      <h3>🧠 AI-Skills-Ryu</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=typescript,html,css,markdown,github&perline=5&theme=dark" />
+      </p>
+      <p align="left">
+        <b>70 skills para que los agentes de IA programen contigo</b><br>
+        ▪ Economía de tokens con carga por demanda<br>
+        ▪ Calibración del nivel real del usuario<br>
+        ▪ Resultados defendibles ante un jurado<br>
+        ▪ Compatible con múltiples agentes de IA
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/70_Skills-b19cd9?style=flat-square" />
+        <img src="https://img.shields.io/badge/Licencia-MIT-009639?logo=gnu&logoColor=white&style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/Riutexu/AI-Skills-Ryu"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+---
+
 <h2 align="center">🌲 SKILL TREE - PROGRESIÓN DE PROYECTOS 🌲</h2>
 
 <br>
@@ -169,163 +321,6 @@
 
 ---
 
-<h2 align="center">📊 PANEL DE ESTADÍSTICAS 📊</h2>
-
-<br>
-
-<div align="center">
-<table border="0" cellpadding="15" cellspacing="0" width="95%">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Repositorios-7-7ecb8e?style=for-the-badge&logo=github" />
-      <br>
-      <sub>Proyectos activos</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Commits-109-00d4ff?style=for-the-badge&logo=git" />
-      <br>
-      <sub>Total en GitHub</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/L%C3%ADneas-4.600+-ff6b9d?style=for-the-badge&logo=codefactor" />
-      <br>
-      <sub>Solo RYU-TUI</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Lenguajes-7-ff9e64?style=for-the-badge&logo=javascript" />
-      <br>
-      <sub>Batch · Kotlin · PowerShell · HTML · JS · TS · CSS</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Desde-Oct_2024-ffd700?style=for-the-badge&logo=github" />
-      <br>
-      <sub>En GitHub</sub>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br>
-
-<h3 align="center">📈 Distribución de Lenguajes</h3>
-
-<br>
-
-<div align="center">
-<table border="0" width="70%">
-  <tr>
-    <td width="15%" align="center"><b>Batchfile</b></td>
-    <td width="65%"><img src="https://img.shields.io/badge/68%25-00d4ff?style=flat-square&label=" /></td>
-    <td width="20%" align="center"><b>68.12%</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Kotlin</b></td>
-    <td><img src="https://img.shields.io/badge/11%25-3ddc84?style=flat-square&label=" /></td>
-    <td align="center"><b>11.06%</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>PowerShell</b></td>
-    <td><img src="https://img.shields.io/badge/10%25-ff6b9d?style=flat-square&label=" /></td>
-    <td align="center"><b>10.05%</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>HTML</b></td>
-    <td><img src="https://img.shields.io/badge/4%25-7ecb8e?style=flat-square&label=" /></td>
-    <td align="center"><b>3.69%</b></td>
-  </tr>
-</table>
-<br>
-<sub>* Cifras reales de GitHub por bytes de código · actualizadas Ago 2026</sub>
-</div>
-
-<br>
-
----
-
-<h2 align="center">🚀 PROYECTOS DESTACADOS 🚀</h2>
-
-<br>
-
-<div align="center">
-<table border="0" cellpadding="15" cellspacing="0" width="95%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🎧 Ryutify v0.1</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle&perline=3&theme=dark" />
-      </p>
-      <p align="left">
-        <b>Reproductor de música para Android</b><br>
-        ▪ Streaming de YouTube Music sin anuncios ni cuenta<br>
-        ▪ Letras sincronizadas tipo karaoke<br>
-        ▪ Descargas offline y biblioteca local<br>
-        ▪ Wrapped anual 100% local<br>
-        ▪ UI liquid glass AMOLED con animaciones
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-1F18FF?logo=kotlin&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Compose-4285F4?logo=jetpackcompose&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Media3-3ddc84?logo=android&logoColor=white&style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/Riutexu/Ryutify"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-      </p>
-    </td>
-    <td width="0.5%"></td>
-    <td align="center" width="33%">
-      <h3>🗺️ Kike Surveyor v3.1</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=php,mysql,js&perline=3&theme=dark" />
-      </p>
-      <p align="left">
-        <b>Sistema de gestión topográfica profesional</b><br>
-        ▪ Panel glassmorphism con modo oscuro/claro<br>
-        ▪ CRUD completo con búsqueda y paginación<br>
-        ▪ OWASP Top 10 mitigado al 100%<br>
-        ▪ Argon2ID · CSRF · Rate Limiting progresivo<br>
-        ▪ Caché JSON con LRU y 85%+ efectividad
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP_8.3-777BB4?logo=php&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/MariaDB_11.4-003545?logo=mariadb&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Apache_2.4-D22128?logo=apache&logoColor=white&style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/Riutexu/Kike-Surveyor"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-        <a href="https://kikesurveyor.free.nf"><img src="https://img.shields.io/badge/Sitio_Web-00C7B7?logo=googlechrome&logoColor=white&style=for-the-badge" /></a>
-      </p>
-    </td>
-    <td width="0.5%"></td>
-    <td align="center" width="33%">
-      <h3>🖥️ RYU-TUI v3.0</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=powershell,linux,windows&perline=3&theme=dark" />
-      </p>
-      <p align="left">
-        <b>Toolkit profesional para Windows en terminal</b><br>
-        ▪ 13 temas true color (Cyberpunk, Matrix, Aurora...)<br>
-        ▪ Motor TUI con degradado RGB y animaciones<br>
-        ▪ 14 módulos: optimización, privacidad, seguridad<br>
-        ▪ Perfiles Gaming/Privacy/Balanced/Aggressive<br>
-        ▪ GPL-3.0 · ~4,600 líneas de código
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/PowerShell_7-5391FE?logo=powershell&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Batch-4EAA25?logo=windows&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Licencia_GPL_v3-009639?logo=gnu&logoColor=white&style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/Riutexu/Terminal-TUI"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
-</div>
-
-<br>
-
----
-
 <h2 align="center">🧩 ARQUITECTURA DEL ECOSISTEMA 🧩</h2>
 
 <br>
@@ -431,6 +426,90 @@
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riutexu&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=b19cd9&line=b19cd9&point=ffffff&area_color=b19cd9" width="95%" alt="Gráfico de actividad" />
+</div>
+
+<br>
+
+---
+
+<h2 align="center">🚀 PROYECTOS DESTACADOS 🚀</h2>
+
+<br>
+
+<div align="center">
+<table border="0" cellpadding="15" cellspacing="0" width="95%">
+  <tr>
+    <td align="center" width="33%">
+      <h3>🗺️ Kike Surveyor v3.1</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=php,mysql,js&perline=3&theme=dark" />
+      </p>
+      <p align="left">
+        <b>Sistema de gestión topográfica profesional</b><br>
+        ▪ Panel glassmorphism con modo oscuro/claro<br>
+        ▪ CRUD completo con búsqueda y paginación<br>
+        ▪ OWASP Top 10 mitigado al 100%<br>
+        ▪ Argon2ID · CSRF · Rate Limiting progresivo<br>
+        ▪ Caché JSON con LRU y 85%+ efectividad
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PHP_8.3-777BB4?logo=php&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/MariaDB_11.4-003545?logo=mariadb&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/Apache_2.4-D22128?logo=apache&logoColor=white&style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/Riutexu/Kike-Surveyor"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+        <a href="https://kikesurveyor.free.nf"><img src="https://img.shields.io/badge/Sitio_Web-00C7B7?logo=googlechrome&logoColor=white&style=for-the-badge" /></a>
+      </p>
+    </td>
+    <td width="0.5%"></td>
+    <td align="center" width="33%">
+      <h3>🖥️ RYU-TUI v3.0</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=powershell,linux,windows&perline=3&theme=dark" />
+      </p>
+      <p align="left">
+        <b>Toolkit profesional para Windows en terminal</b><br>
+        ▪ 13 temas true color (Cyberpunk, Matrix, Aurora...)<br>
+        ▪ Motor TUI con degradado RGB y animaciones<br>
+        ▪ 14 módulos: optimización, privacidad, seguridad<br>
+        ▪ Perfiles Gaming/Privacy/Balanced/Aggressive<br>
+        ▪ GPL-3.0 · ~4,600 líneas de código
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/PowerShell_7-5391FE?logo=powershell&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/Batch-4EAA25?logo=windows&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/Licencia_GPL_v3-009639?logo=gnu&logoColor=white&style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/Riutexu/Terminal-TUI"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+      </p>
+    </td>
+    <td width="0.5%"></td>
+    <td align="center" width="33%">
+      <h3>🎧 Ryutify v0.1</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle&perline=3&theme=dark" />
+      </p>
+      <p align="left">
+        <b>Reproductor de música para Android</b><br>
+        ▪ Streaming de YouTube Music sin anuncios ni cuenta<br>
+        ▪ Letras sincronizadas tipo karaoke<br>
+        ▪ Descargas offline y biblioteca local<br>
+        ▪ Wrapped anual 100% local<br>
+        ▪ UI liquid glass AMOLED con animaciones
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/Kotlin-1F18FF?logo=kotlin&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/Compose-4285F4?logo=jetpackcompose&logoColor=white&style=flat-square" />
+        <img src="https://img.shields.io/badge/Media3-3ddc84?logo=android&logoColor=white&style=flat-square" />
+      </p>
+      <p>
+        <a href="https://github.com/Riutexu/Ryutify"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
