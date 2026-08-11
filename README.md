@@ -1,19 +1,23 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=750&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+apasionado+por+la+tecnolog%C3%ADa;%F0%9F%92%BB+PHP+%26+JavaScript+%3A+mi+motor+principal;%F0%9F%94%90+Seguridad+OWASP+y+cifrado+Argon2ID;%E2%9A%99%EF%B8%8F+Ingeniero+de+sistemas+con+PowerShell+%2B+Batch;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado" alt="Typing SVG: presentación de Riutexu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+autodidacta;%F0%9F%92%BB+PHP+%2B+JavaScript+%3A+mi+motor+principal;%F0%9F%9B%A1%EF%B8%8F+Seguridad+OWASP+y+cifrado+Argon2ID;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado;%F0%9F%A4%96+COW-BOT+%3A+tu+voz+habla+por+ti;%F0%9F%A7%A0+70+skills+para+agentes+de+IA;%E2%AD%90+7+repos+%C2%B7+109%2B+commits+%C2%B7+s%C3%ADgueme" alt="Typing SVG: presentación de Riutexu" />
+</div>
+
+<br>
+
+<div align="center">
+  <!-- Todos los contadores se actualizan solos en tiempo real -->
+  <a href="https://github.com/Riutexu?tab=followers"><img src="https://img.shields.io/github/followers/Riutexu?style=for-the-badge&label=SEGUIDORES&color=b19cd9&logo=github&logoColor=white" alt="Seguidores" /></a>
+  <a href="https://github.com/Riutexu?tab=repositories"><img src="https://img.shields.io/github/stars/Riutexu?style=for-the-badge&label=ESTRELLAS&color=b19cd9&logo=github&logoColor=white" alt="Estrellas" /></a>
+  <a href="https://github.com/Riutexu?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRiutexu&query=public_repos&label=REPOSITORIOS&color=b19cd9&style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" /></a>
+  <a href="https://github.com/Riutexu"><img src="https://komarev.com/ghpvc/?username=Riutexu&label=VISITANTES&color=b19cd9&style=for-the-badge" alt="Visitantes" /></a>
+  <a href="https://github.com/Riutexu"><img src="https://img.shields.io/badge/COMMITS-109%2B%20y%20subiendo-00d4ff?style=for-the-badge&logo=git&logoColor=white" alt="Commits" /></a>
 </div>
 
 <br>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg" width="100%" alt="Gráfico de contribuciones estilo pacman" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Riutexu&label=VISITANTES&color=b19cd9&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Riutexu?label=SEGUIDORES&color=b19cd9&style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/Riutexu?label=ESTRELLAS&color=b19cd9&style=for-the-badge&logo=star" />
+  <sub>🐍 Pac-Man comiéndose mis contribuciones · se regenera solo cada 12h</sub>
 </div>
 
 <br>
@@ -32,7 +36,7 @@
     </td>
     <td align="left" width="75%">
       <p>
-        <b>¡Hola!</b> Soy <b>Riutexu</b>, desarrollador autodidacta.<br>
+        <b>¡Hola!</b> Soy <b>Riutexu</b>, desarrollador <b>Full Stack autodidacta</b>.<br>
         Construyo sistemas web seguros, herramientas de automatización para Windows<br>
         y apps nativas para Android. Me apasiona el código limpio, la seguridad informática<br>
         y optimizar todo lo que toco.
@@ -45,7 +49,7 @@
         <img src="https://img.shields.io/badge/🐍_Python-ff9e64?style=flat-square" />
       </p>
       <p>
-        <i>"Quien no arriesga no gana, y yo nunca gano"</i>
+        <i>"Quien no arriesga no gana, y yo nunca gano... pero sigo intentando"</i>
       </p>
     </td>
   </tr>
@@ -61,75 +65,30 @@
 <br>
 
 <div align="center">
-<table border="0" cellpadding="15" cellspacing="0" width="95%">
-  <tr>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Repositorios-7-7ecb8e?style=for-the-badge&logo=github" />
-      <br>
-      <sub>Proyectos activos</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Commits-109-00d4ff?style=for-the-badge&logo=git" />
-      <br>
-      <sub>Total en GitHub</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/L%C3%ADneas-4.600+-ff6b9d?style=for-the-badge&logo=codefactor" />
-      <br>
-      <sub>Solo RYU-TUI</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Lenguajes-7-ff9e64?style=for-the-badge&logo=javascript" />
-      <br>
-      <sub>Batch · Kotlin · PowerShell · HTML · JS · TS · CSS</sub>
-    </td>
-    <td align="center" width="20%">
-      <img src="https://img.shields.io/badge/Desde-Oct_2024-ffd700?style=for-the-badge&logo=github" />
-      <br>
-      <sub>En GitHub</sub>
-    </td>
-  </tr>
-</table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Riutexu&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" alt="Estadísticas de perfil" />
+  <img src="https://streak-stats.demolab.com/?user=Riutexu&theme=tokyonight&hide_border=true&stroke=b19cd9&ring=b19cd9&fire=b19cd9&currStreakLabel=b19cd9&background=0d1117" width="48%" alt="Racha de contribuciones" />
 </div>
-
-<br>
-
-<h3 align="center">📈 Distribución de Lenguajes</h3>
 
 <br>
 
 <div align="center">
-<table border="0" width="70%">
-  <tr>
-    <td width="15%" align="center"><b>Batchfile</b></td>
-    <td width="65%"><img src="https://img.shields.io/badge/68%25-00d4ff?style=flat-square&label=" /></td>
-    <td width="20%" align="center"><b>68.12%</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>Kotlin</b></td>
-    <td><img src="https://img.shields.io/badge/11%25-3ddc84?style=flat-square&label=" /></td>
-    <td align="center"><b>11.06%</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>PowerShell</b></td>
-    <td><img src="https://img.shields.io/badge/10%25-ff6b9d?style=flat-square&label=" /></td>
-    <td align="center"><b>10.05%</b></td>
-  </tr>
-  <tr>
-    <td align="center"><b>HTML</b></td>
-    <td><img src="https://img.shields.io/badge/4%25-7ecb8e?style=flat-square&label=" /></td>
-    <td align="center"><b>3.69%</b></td>
-  </tr>
-</table>
-<br>
-<sub>* Cifras reales de GitHub por bytes de código · actualizadas Ago 2026</sub>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riutexu&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Lenguajes más usados" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Riutexu&theme=onedark&no-frame=true&no-bg=true&row=2&column=6" width="48%" alt="Trofeos" />
 </div>
 
+<br>
+<sub>* Cifras en vivo desde la API de GitHub · se actualizan automáticamente</sub>
 <br>
 
 ---
 
-<h2 align="center">🗂️ MÁS PROYECTOS 🗂️</h2>
+<h2 align="center">🗺️ GUÍA DE PROYECTOS 🗺️</h2>
+
+<br>
+
+<div align="center">
+<sub>La primera parada para conocer qué construyo: elige, clona y prueba. Todo es real y funcional.</sub>
+</div>
 
 <br>
 
@@ -137,7 +96,128 @@
 <table border="0" cellpadding="15" cellspacing="0" width="95%">
   <tr>
     <td align="center" width="33%">
-      <h3>🎮 Steam Library</h3>
+      <h3>🎧 Ryutify · v0.1</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle&perline=3&theme=dark" />
+      </p>
+      <p align="left">
+        <b>Reproductor de música para Android</b><br>
+        ▪ Streaming de YouTube Music sin anuncios ni cuenta<br>
+        ▪ Letras sincronizadas tipo karaoke<br>
+        ▪ Descargas offline y biblioteca local<br>
+        ▪ Wrapped anual 100% local · sin telemetría
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Riutexu/Ryutify?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/github/last-commit/Riutexu/Ryutify?style=flat-square&label=Activo&color=ff9e64&logo=git&logoColor=white" />
+      </p>
+      <p><code>git clone https://github.com/Riutexu/Ryutify.git</code></p>
+      <p>
+        <a href="https://github.com/Riutexu/Ryutify"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+        <a href="https://github.com/Riutexu/Ryutify/stargazers"><img src="https://img.shields.io/badge/Dar_estrella-b19cd9?logo=star&logoColor=white&style=for-the-badge" /></a>
+      </p>
+    </td>
+    <td width="0.5%"></td>
+    <td align="center" width="33%">
+      <h3>🖥️ RYU-TUI · v3.0</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=powershell,bash,linux,windows&perline=4&theme=dark" />
+      </p>
+      <p align="left">
+        <b>Toolkit profesional para Windows en terminal</b><br>
+        ▪ 13 temas true color (Cyberpunk, Matrix, Aurora...)<br>
+        ▪ Motor TUI con degradado RGB y animaciones<br>
+        ▪ 14 módulos: optimización, privacidad, seguridad<br>
+        ▪ Perfiles Gaming/Privacy/Balanced/Aggressive<br>
+        ▪ GPL-3.0 · ~4,600 líneas de código
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Riutexu/Terminal-TUI?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/github/license/Riutexu/Terminal-TUI?style=flat-square&label=GPLv3&color=3ddc84&logo=gnu&logoColor=white" />
+      </p>
+      <p><code>git clone https://github.com/Riutexu/Terminal-TUI.git</code></p>
+      <p>
+        <a href="https://github.com/Riutexu/Terminal-TUI"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+        <a href="https://github.com/Riutexu/Terminal-TUI/stargazers"><img src="https://img.shields.io/badge/Dar_estrella-b19cd9?logo=star&logoColor=white&style=for-the-badge" /></a>
+      </p>
+    </td>
+    <td width="0.5%"></td>
+    <td align="center" width="33%">
+      <h3>🗺️ Kike Surveyor · v3.1</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=php,mysql,js,apache&perline=4&theme=dark" />
+      </p>
+      <p align="left">
+        <b>Sistema de gestión topográfica profesional</b><br>
+        ▪ Panel glassmorphism con modo oscuro/claro<br>
+        ▪ CRUD completo con búsqueda y paginación<br>
+        ▪ OWASP Top 10 mitigado al 100%<br>
+        ▪ Argon2ID · CSRF · Rate Limiting progresivo<br>
+        ▪ Caché JSON con LRU y 85%+ efectividad
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Riutexu/Kike-Surveyor?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/En_producción-00C7B7?style=flat-square&logo=googlechrome&logoColor=white" />
+      </p>
+      <p><code>git clone https://github.com/Riutexu/Kike-Surveyor.git</code></p>
+      <p>
+        <a href="https://github.com/Riutexu/Kike-Surveyor"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+        <a href="https://kikesurveyor.free.nf"><img src="https://img.shields.io/badge/Sitio_Web-00C7B7?logo=googlechrome&logoColor=white&style=for-the-badge" /></a>
+      </p>
+    </td>
+  </tr>
+
+  <tr><td colspan="3" align="center"><br><b>⬇</b><br><br></td></tr>
+
+  <tr>
+    <td align="center">
+      <h3>🧠 AI-Skills-Ryu</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=typescript,html,css,md,github&perline=5&theme=dark" />
+      </p>
+      <p align="left">
+        <b>70 skills para que los agentes de IA programen contigo</b><br>
+        ▪ Economía de tokens con carga por demanda<br>
+        ▪ Calibración del nivel real del usuario<br>
+        ▪ Resultados defendibles ante un jurado<br>
+        ▪ Compatible con múltiples agentes de IA · MIT
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Riutexu/AI-Skills-Ryu?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/70_Skills-b19cd9?style=flat-square" />
+      </p>
+      <p><code>git clone https://github.com/Riutexu/AI-Skills-Ryu.git</code></p>
+      <p>
+        <a href="https://github.com/Riutexu/AI-Skills-Ryu"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+        <a href="https://github.com/Riutexu/AI-Skills-Ryu/stargazers"><img src="https://img.shields.io/badge/Dar_estrella-b19cd9?logo=star&logoColor=white&style=for-the-badge" /></a>
+      </p>
+    </td>
+    <td width="0.5%"></td>
+    <td align="center">
+      <h3>🤖 COW-BOT</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=python,discord,linux,bash&perline=4&theme=dark" />
+      </p>
+      <p align="left">
+        <b>Bot de Discord que escucha tu voz y responde por ti</b><br>
+        ▪ Transcripción de voz con Whisper STT<br>
+        ▪ Conversación con OpenRouter AI<br>
+        ▪ Respuestas como usuario humano vía webhook<br>
+        ▪ TTS lee las respuestas en el canal de voz
+      </p>
+      <p>
+        <img src="https://img.shields.io/github/stars/Riutexu/COWBOT-?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
+        <img src="https://img.shields.io/badge/Voz→Texto-412991?style=flat-square&logo=openai&logoColor=white" />
+      </p>
+      <p><code>git clone https://github.com/Riutexu/COWBOT-.git</code></p>
+      <p>
+        <a href="https://github.com/Riutexu/COWBOT-"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+        <a href="https://github.com/Riutexu/COWBOT-/stargazers"><img src="https://img.shields.io/badge/Dar_estrella-b19cd9?logo=star&logoColor=white&style=for-the-badge" /></a>
+      </p>
+    </td>
+    <td width="0.5%"></td>
+    <td align="center">
+      <h3>🎮 MIS-JUEGOS-DE-STEAM</h3>
       <p>
         <img src="https://skillicons.dev/icons?i=windows,git,github&perline=3&theme=dark" />
       </p>
@@ -149,55 +229,13 @@
         ▪ Sección única por producto, sin duplicados
       </p>
       <p>
+        <img src="https://img.shields.io/github/stars/Riutexu/MIS-JUEGOS-DE-STEAM?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/Steam-000000?logo=steam&logoColor=white&style=flat-square" />
       </p>
+      <p><code>git clone https://github.com/Riutexu/MIS-JUEGOS-DE-STEAM.git</code></p>
       <p>
         <a href="https://github.com/Riutexu/MIS-JUEGOS-DE-STEAM"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-      </p>
-    </td>
-    <td width="0.5%"></td>
-    <td align="center" width="33%">
-      <h3>🤖 Cow-BOT</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=python,discord,linux,bash&perline=4&theme=dark" />
-      </p>
-      <p align="left">
-        <b>Bot de Discord que escucha tu voz y responde por ti</b><br>
-        ▪ Transcripción de voz con Whisper STT<br>
-        ▪ Conversación con OpenRouter AI<br>
-        ▪ Respuestas como usuario humano vía webhook<br>
-        ▪ TTS lee las respuestas en el canal de voz<br>
-        ▪ Detección de actividad de voz (VAD)
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Whisper-412991?logo=openai&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/OpenRouter_AI-8B5CF6?style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/Riutexu/COWBOT-"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-      </p>
-    </td>
-    <td width="0.5%"></td>
-    <td align="center" width="33%">
-      <h3>🧠 AI-Skills-Ryu</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=typescript,html,css,markdown,github&perline=5&theme=dark" />
-      </p>
-      <p align="left">
-        <b>70 skills para que los agentes de IA programen contigo</b><br>
-        ▪ Economía de tokens con carga por demanda<br>
-        ▪ Calibración del nivel real del usuario<br>
-        ▪ Resultados defendibles ante un jurado<br>
-        ▪ Compatible con múltiples agentes de IA
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/70_Skills-b19cd9?style=flat-square" />
-        <img src="https://img.shields.io/badge/Licencia-MIT-009639?logo=gnu&logoColor=white&style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/Riutexu/AI-Skills-Ryu"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
+        <a href="https://github.com/Riutexu/MIS-JUEGOS-DE-STEAM/stargazers"><img src="https://img.shields.io/badge/Dar_estrella-b19cd9?logo=star&logoColor=white&style=for-the-badge" /></a>
       </p>
     </td>
   </tr>
@@ -208,7 +246,7 @@
 
 ---
 
-<h2 align="center">🌲 SKILL TREE - PROGRESIÓN DE PROYECTOS 🌲</h2>
+<h2 align="center">🌲 SKILL TREE · PROGRESIÓN DE PROYECTOS 🌲</h2>
 
 <br>
 
@@ -217,9 +255,7 @@
 <table border="0" cellpadding="10" cellspacing="0" width="95%">
 
   <tr>
-    <td align="center" width="15%">
-      <h1>🌐</h1>
-    </td>
+    <td align="center" width="15%"><h1>🌐</h1></td>
     <td align="center" width="55%">
       <b>LVL 1 ██████████ 100%</b><br>
       <b>Iniciado Web</b><br>
@@ -237,9 +273,7 @@
   <tr><td colspan="3" align="center"><br><b>⬇</b><br><br></td></tr>
 
   <tr>
-    <td align="center">
-      <h1>🗄️</h1>
-    </td>
+    <td align="center"><h1>🗄️</h1></td>
     <td align="center">
       <b>LVL 2 ██████████ 100%</b><br>
       <b>Artesano de Datos</b><br>
@@ -257,9 +291,7 @@
   <tr><td colspan="3" align="center"><br><b>⬇</b><br><br></td></tr>
 
   <tr>
-    <td align="center">
-      <h1>🔐</h1>
-    </td>
+    <td align="center"><h1>🔐</h1></td>
     <td align="center">
       <b>LVL 3 ██████████ 100%</b><br>
       <b>Arquitecto de Seguridad</b><br>
@@ -277,9 +309,7 @@
   <tr><td colspan="3" align="center"><br><b>⬇</b><br><br></td></tr>
 
   <tr>
-    <td align="center">
-      <h1>⚙️</h1>
-    </td>
+    <td align="center"><h1>⚙️</h1></td>
     <td align="center">
       <b>LVL 4 ████████░░ 80%</b><br>
       <b>Ingeniero de Sistemas</b><br>
@@ -297,9 +327,7 @@
   <tr><td colspan="3" align="center"><br><b>⬇</b><br><br></td></tr>
 
   <tr>
-    <td align="center">
-      <h1>🎧</h1>
-    </td>
+    <td align="center"><h1>🎧</h1></td>
     <td align="center">
       <b>LVL 5 ██████████ 100%</b><br>
       <b>Arquitecto de Ecosistemas</b><br>
@@ -374,6 +402,33 @@
 
 ---
 
+<h2 align="center">🗓️ HOJA DE RUTA 🗓️</h2>
+
+<br>
+
+<div align="center">
+<table border="0" cellpadding="10" cellspacing="0" width="85%">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/✅_Completado-7ecb8e?style=for-the-badge" /><br>
+      <sub>RYU-TUI v3.0<br>Kike Surveyor v3.1<br>AI-Skills-Ryu · 70 skills</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🚧_En_desarrollo-ff9e64?style=for-the-badge" /><br>
+      <sub>Ryutify · Ago 2026<br>COW-BOT · Jul 2026</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🔥_Próximo_nivel-b19cd9?style=for-the-badge" /><br>
+      <sub>Lo verás aquí primero<br>sígueme y no te lo pierdas</sub>
+    </td>
+  </tr>
+</table>
+</div>
+
+<br>
+
+---
+
 <h2 align="center">🏅 LOGROS & TROFEOS 🏅</h2>
 
 <br>
@@ -404,112 +459,14 @@
 <br>
 
 <div align="center">
-  <table border="0" cellpadding="10" cellspacing="0" width="95%">
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Riutexu&theme=tokyonight" width="95%" alt="Estadísticas de perfil" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Riutexu&theme=tokyonight&hide_border=true&stroke=b19cd9&ring=b19cd9&fire=b19cd9&currStreakLabel=b19cd9&background=0d1117" width="95%" alt="Racha de contribuciones" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center" colspan="2">
-        <br>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Riutexu&theme=tokyonight" width="70%" alt="Lenguajes por repositorio" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riutexu&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=b19cd9&line=b19cd9&point=ffffff&area_color=b19cd9" width="95%" alt="Gráfico de actividad" />
 </div>
 
 <br>
 
----
-
-<h2 align="center">🚀 PROYECTOS DESTACADOS 🚀</h2>
-
-<br>
-
 <div align="center">
-<table border="0" cellpadding="15" cellspacing="0" width="95%">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🗺️ Kike Surveyor v3.1</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=php,mysql,js&perline=3&theme=dark" />
-      </p>
-      <p align="left">
-        <b>Sistema de gestión topográfica profesional</b><br>
-        ▪ Panel glassmorphism con modo oscuro/claro<br>
-        ▪ CRUD completo con búsqueda y paginación<br>
-        ▪ OWASP Top 10 mitigado al 100%<br>
-        ▪ Argon2ID · CSRF · Rate Limiting progresivo<br>
-        ▪ Caché JSON con LRU y 85%+ efectividad
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/PHP_8.3-777BB4?logo=php&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/MariaDB_11.4-003545?logo=mariadb&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Apache_2.4-D22128?logo=apache&logoColor=white&style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/Riutexu/Kike-Surveyor"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-        <a href="https://kikesurveyor.free.nf"><img src="https://img.shields.io/badge/Sitio_Web-00C7B7?logo=googlechrome&logoColor=white&style=for-the-badge" /></a>
-      </p>
-    </td>
-    <td width="0.5%"></td>
-    <td align="center" width="33%">
-      <h3>🖥️ RYU-TUI v3.0</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=powershell,linux,windows&perline=3&theme=dark" />
-      </p>
-      <p align="left">
-        <b>Toolkit profesional para Windows en terminal</b><br>
-        ▪ 13 temas true color (Cyberpunk, Matrix, Aurora...)<br>
-        ▪ Motor TUI con degradado RGB y animaciones<br>
-        ▪ 14 módulos: optimización, privacidad, seguridad<br>
-        ▪ Perfiles Gaming/Privacy/Balanced/Aggressive<br>
-        ▪ GPL-3.0 · ~4,600 líneas de código
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/PowerShell_7-5391FE?logo=powershell&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Batch-4EAA25?logo=windows&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Licencia_GPL_v3-009639?logo=gnu&logoColor=white&style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/Riutexu/Terminal-TUI"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-      </p>
-    </td>
-    <td width="0.5%"></td>
-    <td align="center" width="33%">
-      <h3>🎧 Ryutify v0.1</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle&perline=3&theme=dark" />
-      </p>
-      <p align="left">
-        <b>Reproductor de música para Android</b><br>
-        ▪ Streaming de YouTube Music sin anuncios ni cuenta<br>
-        ▪ Letras sincronizadas tipo karaoke<br>
-        ▪ Descargas offline y biblioteca local<br>
-        ▪ Wrapped anual 100% local<br>
-        ▪ UI liquid glass AMOLED con animaciones
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Kotlin-1F18FF?logo=kotlin&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Compose-4285F4?logo=jetpackcompose&logoColor=white&style=flat-square" />
-        <img src="https://img.shields.io/badge/Media3-3ddc84?logo=android&logoColor=white&style=flat-square" />
-      </p>
-      <p>
-        <a href="https://github.com/Riutexu/Ryutify"><img src="https://img.shields.io/badge/Ver_Repositorio-181717?logo=github&logoColor=white&style=for-the-badge" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+  <!-- Tarjeta de métricas generada automáticamente cada 24h por GitHub Actions -->
+  <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/main/metrics.svg" width="100%" alt="Métricas de perfil" />
 </div>
 
 <br>
@@ -521,11 +478,20 @@
 <br>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="Twitch" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+  <a href="https://github.com/Riutexu"><img src="https://img.shields.io/badge/GitHub-Riutexu-b19cd9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://kikesurveyor.free.nf"><img src="https://img.shields.io/badge/Sitio_Web-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" /></a>
+  <a href="https://github.com/Riutexu?tab=followers"><img src="https://img.shields.io/github/followers/Riutexu?style=for-the-badge&label=Sígueme&color=ff6b9d&logo=github&logoColor=white" alt="Sígueme" /></a>
+</div>
+
+<br>
+
+<!-- 👇 Sustituye el href de cada icono por tu enlace real (https://discord.com/users/TU_ID, https://youtube.com/@TU_CANAL...) -->
+<div align="center">
+  <a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" /></a>
+  <a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" /></a>
+  <a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="Twitch" /></a>
+  <a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" /></a>
+  <a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" /></a>
 </div>
 
 <br>
@@ -539,5 +505,7 @@
 <div align="center">
 <img src="https://media.tenor.com/qMwo1n-MFxYAAAAm/moster-energy-drink-monster-meme.webp" width="200" alt="Meme Monster Energy" />
 <br><br>
-<sub><b>Gracias por visitar 🐍</b></sub>
+<sub><b>Gracias por visitar 🐍</b> · Si algo te impresiona: ⭐ estrella y 🔔 sígueme, cada proyecto es mejor que el anterior.</sub>
+<br><br>
+<a href="https://github.com/Riutexu"><img src="https://komarev.com/ghpvc/?username=Riutexu&label=VISITANTES&color=b19cd9&style=flat-square" alt="Visitantes" /></a>
 </div>

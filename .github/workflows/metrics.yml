@@ -1,0 +1,41 @@
+name: Generate Metrics
+
+# Tarjeta de métricas del perfil: se regenera automáticamente cada 24h
+# y actualiza https://github.com/Riutexu/Riutexu/blob/main/metrics.svg
+on:
+  schedule:
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Profile Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: metrics.svg
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          repositories_affiliations: owner
+          config_timezone: Europe/Madrid
+          config_twemoji: yes
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_analysis_timeout: 30
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 14
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_charts: yes
+          plugin_habits_facts: yes
