@@ -1,23 +1,58 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3400&pause=800&color=b19cd9&center=true&vCenter=true&width=820&lines=Desarrollador+Full+Stack+autodidacta+desde+2024;Seguridad+web+%3A+OWASP+Top+10,+Argon2ID,+cifrado+E2E;Android+nativo+%3A+Kotlin,+Jetpack+Compose,+Media3;Automatizaci%C3%B3n+%3A+PowerShell+7,+Batch,+Linux;PHP+8.3,+MariaDB+11.4,+Apache+2.4;7+repositorios+p%C3%BAblicos,+documentados+y+en+producci%C3%B3n" alt="Typing SVG: perfil de Riutexu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+autodidacta+desde+2024;%F0%9F%92%BB+PHP+%2B+JavaScript+%3A+mi+motor+principal;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado;%F0%9F%9B%A1%EF%B8%8F+Seguridad+OWASP+y+cifrado+Argon2ID;%F0%9F%90%8D+Python+%2B+Whisper+%3A+COW-BOT+te+escucha;%F0%9F%A7%A0+70+skills+para+agentes+de+IA;%E2%AD%90+7+repos+%C2%B7+109%2B+commits+%C2%B7+s%C3%ADgueme" alt="Typing SVG: presentación de Riutexu" />
+
+  <br>
 
   <!-- Contadores en vivo, se actualizan solos desde la API de GitHub -->
-  <a href="https://github.com/Riutexu?tab=followers"><img src="https://img.shields.io/github/followers/Riutexu?style=flat-square&label=Seguidores&color=b19cd9&logo=github&logoColor=white" alt="Seguidores" /></a>
-  <a href="https://github.com/Riutexu?tab=repositories"><img src="https://img.shields.io/github/stars/Riutexu?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" alt="Estrellas" /></a>
-  <a href="https://github.com/Riutexu?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRiutexu&query=public_repos&label=Repositorios&color=b19cd9&style=flat-square&logo=github&logoColor=white" alt="Repositorios" /></a>
-  <a href="https://github.com/Riutexu"><img src="https://komarev.com/ghpvc/?username=Riutexu&label=Visitas&color=b19cd9&style=flat-square" alt="Visitas" /></a>
-  <a href="https://github.com/Riutexu"><img src="https://img.shields.io/badge/109%2B%20commits-00d4ff?style=flat-square&logo=git&logoColor=white" alt="Commits" /></a>
+  <a href="https://github.com/Riutexu?tab=followers"><img src="https://img.shields.io/github/followers/Riutexu?style=for-the-badge&label=SEGUIDORES&color=b19cd9&logo=github&logoColor=white" alt="Seguidores" /></a>
+  <a href="https://github.com/Riutexu?tab=repositories"><img src="https://img.shields.io/github/stars/Riutexu?style=for-the-badge&label=ESTRELLAS&color=b19cd9&logo=github&logoColor=white" alt="Estrellas" /></a>
+  <a href="https://github.com/Riutexu?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRiutexu&query=public_repos&label=REPOSITORIOS&color=b19cd9&style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" /></a>
+  <a href="https://github.com/Riutexu"><img src="https://komarev.com/ghpvc/?username=Riutexu&label=VISITANTES&color=b19cd9&style=for-the-badge" alt="Visitantes" /></a>
+  <a href="https://github.com/Riutexu"><img src="https://img.shields.io/badge/COMMITS-109%2B%20y%20subiendo-00d4ff?style=for-the-badge&logo=git&logoColor=white" alt="Commits" /></a>
 
+  <br>
+
+  <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg" width="100%" alt="Gráfico de contribuciones estilo pacman" />
+  <sub>🐍 Pac-Man comiéndose mis contribuciones · se regenera solo cada 12h</sub>
+
+</div>
+
+---
+
+## ⚡ PERFIL PROFESIONAL ⚡
+
+<div align="center">
+<table border="0" width="85%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="180" alt="Avatar animado" />
+    </td>
+    <td align="left" width="75%">
+      <p>
+        <b>¡Hola!</b> Soy <b>Riutexu</b>, desarrollador <b>Full Stack autodidacta</b> desde 2024.<br>
+        Construyo productos completos de forma autónoma: desde la interfaz<br>
+        hasta la base de datos y el despliegue. Me apasiona el código limpio,<br>
+        la seguridad informática y optimizar todo lo que toco.
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/⚡_Full_Stack-7ecb8e?style=flat-square" />
+        <img src="https://img.shields.io/badge/🔐_Seguridad-00d4ff?style=flat-square" />
+        <img src="https://img.shields.io/badge/🤖_Automatización-ff6b9d?style=flat-square" />
+        <img src="https://img.shields.io/badge/📱_Android-3ddc84?style=flat-square" />
+        <img src="https://img.shields.io/badge/🐍_Python-ff9e64?style=flat-square" />
+      </p>
+      <p>
+        <i>"Quien no arriesga no gana, y yo nunca gano... pero sigo intentando"</i>
+      </p>
+    </td>
+  </tr>
+</table>
 </div>
 
 <br>
 
----
-
-## Perfil profesional
-
-Soy **Riutexu**, desarrollador **Full Stack autodidacta** desde 2024. Construyo productos completos de forma autónoma: desde la interfaz hasta la base de datos y el despliegue. Mi trabajo se concentra en tres áreas:
+**Áreas de trabajo:**
 
 | Área | Tecnologías | Qué resuelve |
 |---|---|---|
@@ -29,7 +64,7 @@ Soy **Riutexu**, desarrollador **Full Stack autodidacta** desde 2024. Construyo 
 
 ---
 
-## Stack técnico
+## 🛠️ STACK TÉCNICO 🛠️
 
 <div align="center">
 
@@ -48,9 +83,9 @@ Soy **Riutexu**, desarrollador **Full Stack autodidacta** desde 2024. Construyo 
 
 ---
 
-## Proyectos
+## 🗺️ PROYECTOS 🗺️
 
-Cada repositorio incluye documentación, instrucciones de instalación y (cuando aplica) despliegue en producción. Los badges de estrellas y de última actualización son dinámicos: reflejan el estado real en tiempo real.
+Cada repositorio incluye documentación, instrucciones de instalación y (cuando aplica) despliegue en producción. Los badges son dinámicos: reflejan el estado real en tiempo real.
 
 <div align="center">
 <table border="0" cellpadding="15" cellspacing="0" width="95%">
@@ -164,7 +199,7 @@ Cada repositorio incluye documentación, instrucciones de instalación y (cuando
 
 ---
 
-## Progresión técnica
+## 🌲 SKILL TREE · PROGRESIÓN DE PROYECTOS 🌲
 
 Camino de aprendizaje verificado con proyectos reales, de lo fundamental a lo complejo:
 
@@ -178,7 +213,7 @@ Camino de aprendizaje verificado con proyectos reales, de lo fundamental a lo co
 
 ---
 
-## Arquitectura
+## 🧩 ARQUITECTURA DEL ECOSISTEMA 🧩
 
 ### Web (Kike Surveyor)
 
@@ -212,7 +247,7 @@ Camino de aprendizaje verificado con proyectos reales, de lo fundamental a lo co
 
 ---
 
-## Hoja de ruta
+## 🗓️ HOJA DE RUTA 🗓️
 
 | Estado | Proyecto | Notas |
 |---|---|---|
@@ -222,7 +257,7 @@ Camino de aprendizaje verificado con proyectos reales, de lo fundamental a lo co
 
 ---
 
-## Métricas y actividad
+## 📡 MÉTRICAS Y ACTIVIDAD 📡
 
 <div align="center">
 
@@ -237,30 +272,37 @@ Camino de aprendizaje verificado con proyectos reales, de lo fundamental a lo co
 <!-- Tarjeta de métricas generada automáticamente cada 24h por GitHub Actions -->
 <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/main/metrics.svg" width="100%" alt="Métricas de perfil" />
 
-<!-- Gráfico de contribuciones regenerado automáticamente cada 12h por GitHub Actions -->
-<img src="https://raw.githubusercontent.com/Riutexu/Riutexu/output/pacman-contribution-graph-dark.svg" width="100%" alt="Gráfico de contribuciones (Pac-Man)" />
-
 </div>
 
 ---
 
-## Contacto
+## 💌 CONÉCTATE CONMIGO 💌
 
 <div align="center">
 
-<a href="https://github.com/Riutexu"><img src="https://img.shields.io/badge/GitHub-Riutexu-b19cd9?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://kikesurveyor.free.nf"><img src="https://img.shields.io/badge/Web_Kike_Surveyor-00C7B7?style=flat-square&logo=googlechrome&logoColor=white" alt="Web" /></a>
-<a href="https://github.com/Riutexu?tab=followers"><img src="https://img.shields.io/github/followers/Riutexu?style=flat-square&label=Sígueme&color=ff6b9d&logo=github&logoColor=white" alt="Sígueme" /></a>
-
-<!-- Sustituye el href por tus enlaces reales: https://discord.com/users/TU_ID, https://youtube.com/@TU_CANAL, etc. -->
-<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="30" alt="Discord" /></a>
-<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="40" height="30" alt="YouTube" /></a>
-<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="40" height="30" alt="Twitch" /></a>
-<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" height="30" alt="WhatsApp" /></a>
-<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" height="30" alt="Instagram" /></a>
+<a href="https://github.com/Riutexu"><img src="https://img.shields.io/badge/GitHub-Riutexu-b19cd9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://kikesurveyor.free.nf"><img src="https://img.shields.io/badge/Sitio_Web-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" /></a>
+<a href="https://github.com/Riutexu?tab=followers"><img src="https://img.shields.io/github/followers/Riutexu?style=for-the-badge&label=Sígueme&color=ff6b9d&logo=github&logoColor=white" alt="Sígueme" /></a>
 
 <br>
+
+<!-- 👇 Sustituye el href por tus enlaces reales: https://discord.com/users/TU_ID, https://youtube.com/@TU_CANAL... -->
+<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" /></a>
+<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" /></a>
+<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="Twitch" /></a>
+<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" /></a>
+<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" /></a>
+
 <br>
+
+<img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif" width="80%" alt="Separador animado" />
+
+<br>
+
+<img src="https://media.tenor.com/qMwo1n-MFxYAAAAm/moster-energy-drink-monster-meme.webp" width="200" alt="Meme Monster Energy" />
+<br><br>
+<sub><b>Gracias por visitar 🐍</b> · Si algo te impresiona: ⭐ estrella y 🔔 sígueme, cada proyecto es mejor que el anterior.</sub>
+<br><br>
 © 2024–2026 Riutexu · <a href="https://github.com/Riutexu">github.com/Riutexu</a>
 
 </div>
