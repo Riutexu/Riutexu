@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+autodidacta+desde+2024;%F0%9F%92%BB+PHP+%2B+JavaScript+%3A+mi+motor+principal;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado;%F0%9F%9B%A1%EF%B8%8F+Seguridad+OWASP+y+cifrado+Argon2ID;%F0%9F%90%8D+Python+%2B+Whisper+%3A+COW-BOT+te+escucha;%F0%9F%A7%A0+70+skills+para+agentes+de+IA;%E2%AD%90+7+repos+%C2%B7+109%2B+commits+%C2%B7+s%C3%ADgueme" alt="Typing SVG: presentación de Riutexu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+autodidacta+desde+2024;%F0%9F%92%BB+PHP+%2B+JavaScript+%3A+mi+motor+principal;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado;%F0%9F%9B%A1%EF%B8%8F+Seguridad+OWASP+y+cifrado+Argon2ID;%F0%9F%90%8D+Python+%2B+Whisper+%3A+COW-BOT+te+escucha;%F0%9F%A7%A0+94+skills+para+agentes+de+IA;%E2%AD%90+7+repos+%C2%B7+120%2B+commits+%C2%B7+s%C3%ADgueme" alt="Typing SVG: presentación de Riutexu" />
 
   <br>
 
@@ -9,7 +9,7 @@
   <a href="https://github.com/Riutexu?tab=repositories"><img src="https://img.shields.io/github/stars/Riutexu?style=for-the-badge&label=ESTRELLAS&color=b19cd9&logo=github&logoColor=white" alt="Estrellas" /></a>
   <a href="https://github.com/Riutexu?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRiutexu&query=public_repos&label=REPOSITORIOS&color=b19cd9&style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" /></a>
   <a href="https://github.com/Riutexu"><img src="https://komarev.com/ghpvc/?username=Riutexu&label=VISITANTES&color=b19cd9&style=for-the-badge" alt="Visitantes" /></a>
-  <a href="https://github.com/Riutexu"><img src="https://img.shields.io/badge/COMMITS-109%2B%20y%20subiendo-00d4ff?style=for-the-badge&logo=git&logoColor=white" alt="Commits" /></a>
+  <a href="https://github.com/Riutexu"><img src="https://img.shields.io/badge/COMMITS-120%2B%20y%20subiendo-00d4ff?style=for-the-badge&logo=git&logoColor=white" alt="Commits" /></a>
 
   <br>
 
@@ -62,6 +62,8 @@
 
 **Principios de trabajo:** seguridad por diseño · código legible y mantenible · optimización medible.
 
+**Herramientas que admiro y uso a diario:** [Vencord](https://github.com/Vencord/Installer/releases) para personalizar Discord y [Spicetify](https://github.com/spicetify/cli) para controlar Spotify desde la terminal — ambos 100% locales, con el respeto que se merecen sus autores.
+
 ---
 
 ## 🛠️ STACK TÉCNICO 🛠️
@@ -108,7 +110,7 @@ Cada repositorio incluye documentación, instrucciones de instalación y (cuando
     </td>
     <td width="0.5%"></td>
     <td align="left" width="33%">
-      <b>🖥️ RYU-TUI · v3.0</b><br>
+      <b>🖥️ RYU-TUI · v3.1</b><br>
       <sub><i>Toolkit para Windows en terminal · GPL-3.0</i></sub>
       <p align="left">
         ▪ 13 temas true color (Cyberpunk, Matrix, Aurora...)<br>
@@ -145,11 +147,11 @@ Cada repositorio incluye documentación, instrucciones de instalación y (cuando
 
   <tr>
     <td align="left">
-      <b>🧠 AI-Skills-Ryu · v1.0</b><br>
+      <b>🧠 AI-Skills-Ryu · v2.0.0</b><br>
       <sub><i>Skills para agentes de IA · MIT</i></sub>
       <p align="left">
-        ▪ 70 skills listas para instalar (Claude Code, opencode, Cursor...)<br>
-        ▪ 23 temas y niveles básico/avanzado/profesional<br>
+        ▪ 94 skills listas para instalar (Claude Code, opencode, Cursor...)<br>
+        ▪ 31 temas y niveles básico/avanzado/profesional<br>
         ▪ Economía de tokens con carga por demanda<br>
         ▪ Resultados verificables y defendibles
       </p>
@@ -251,7 +253,7 @@ Camino de aprendizaje verificado con proyectos reales, de lo fundamental a lo co
 
 | Estado | Proyecto | Notas |
 |---|---|---|
-| ✅ Completado | RYU-TUI v3.0 · Kike Surveyor v3.1 · AI-Skills-Ryu | Documentados y estables |
+| ✅ Completado | RYU-TUI v3.1 · Kike Surveyor v3.1 · AI-Skills-Ryu v2.0.0 | Documentados y estables |
 | 🚧 En desarrollo | Ryutify · COW-BOT | Última actividad: Ago 2026 · Jul 2026 |
 | 🔜 Próximo | Ryutify v0.2, nuevos módulos RYU-TUI | Publicado en este perfil antes que en ningún otro sitio |
 
@@ -283,15 +285,9 @@ Camino de aprendizaje verificado con proyectos reales, de lo fundamental a lo co
 <a href="https://github.com/Riutexu"><img src="https://img.shields.io/badge/GitHub-Riutexu-b19cd9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://kikesurveyor.free.nf"><img src="https://img.shields.io/badge/Sitio_Web-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Web" /></a>
 <a href="https://github.com/Riutexu?tab=followers"><img src="https://img.shields.io/github/followers/Riutexu?style=for-the-badge&label=Sígueme&color=ff6b9d&logo=github&logoColor=white" alt="Sígueme" /></a>
+<a href="https://steamcommunity.com/profiles/76561199130940190/"><img src="https://img.shields.io/badge/Steam-76561199130940190-1b2838?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a>
 
 <br>
-
-<!-- 👇 Sustituye el href por tus enlaces reales: https://discord.com/users/TU_ID, https://youtube.com/@TU_CANAL... -->
-<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="Discord" /></a>
-<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="YouTube" /></a>
-<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="52" height="40" alt="Twitch" /></a>
-<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="WhatsApp" /></a>
-<a href="https://github.com/Riutexu"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" /></a>
 
 <br>
 
