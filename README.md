@@ -301,13 +301,42 @@ Camino de aprendizaje verificado con proyectos reales, de lo fundamental a lo co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Riutexu&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" width="48%" alt="Estadísticas de GitHub" />
-<img src="https://streak-stats.demolab.com/?user=Riutexu&theme=tokyonight&hide_border=true&stroke=b19cd9&ring=b19cd9&fire=b19cd9&currStreakLabel=b19cd9&background=0d1117" width="48%" alt="Racha de contribuciones" />
+### Resumen Rápido
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riutexu&theme=tokyonight&hide_border=true&layout=compact" width="48%" alt="Lenguajes más usados" />
-<img src="https://github-profile-trophy.vercel.app/?username=Riutexu&theme=onedark&no-frame=true&no-bg=true&row=2&column=6" width="48%" alt="Trofeos de GitHub" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRiutexu&query=%24.public_repos&label=Repositorios&style=flat-square&color=b19cd9&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRiutexu&query=%24.followers&label=Seguidores&style=flat-square&color=ff6b9d&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/Commits-120%2B-485dce?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/github/commits-since/Riutexu/Riutexu/latest?style=flat-square&color=7ecb8e&label=Último+commit&logo=git&logoColor=white" />
+<img src="https://img.shields.io/github/followers/Riutexu?style=flat-square&color=b19cd9&logo=github&logoColor=white" />
+
+<br>
+
+### Stack Principal
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Windows-0078D4?style=flat-square&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white" />
+
+<br>
+
+### Gráfico de Actividad
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Riutexu&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=b19cd9&line=b19cd9&point=ffffff&area_color=b19cd9" width="95%" alt="Gráfico de actividad" />
+
+### Métricas Detalladas
 
 <!-- Tarjeta de métricas generada automáticamente cada 24h por GitHub Actions -->
 <img src="https://raw.githubusercontent.com/Riutexu/Riutexu/main/metrics.svg" width="100%" alt="Métricas de perfil" />
