@@ -186,6 +186,12 @@ Organización por género · 3 niveles de producción · Catálogo en expansión
 
 <div align="center">
 
+### Discord
+
+<iframe src="https://discord.com/widget?id=1366745801245593630&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+### Redes
+
 <a href="https://github.com/Riutexu"><img src="https://img.shields.io/badge/GitHub-Riutexu-b19cd9?style=for-the-badge&logo=github&logoColor=white" /></a>
 <a href="https://kikesurveyor.free.nf"><img src="https://img.shields.io/badge/Sitio_Web-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
 <a href="https://github.com/Riutexu?tab=followers"><img src="https://img.shields.io/badge/Sigueme-ff6b9d?style=for-the-badge&logo=github&logoColor=white" /></a>
