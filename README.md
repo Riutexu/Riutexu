@@ -1,8 +1,10 @@
 <div align="center">
 
-<a href="https://github.com/Riutexu">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+autodidacta+desde+2024;%F0%9F%92%BB+PHP+%2B+JavaScript+%3A+mi+motor+principal;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado;%F0%9F%9B%A1%EF%B8%8F+Seguridad+OWASP+y+cifrado+Argon2ID;%F0%9F%90%8D+Python+%2B+Whisper+%3A+COW-BOT+te+escucha;%F0%9F%A7%A0+94+skills+para+agentes+de+IA;%F0%9F%92%B0+28+mods+PAYDAY+2+%3A+experiencia+definitiva;%E2%AD%90+8+repos+%C2%B7+120%2B+commits+%C2%B7+s%C3%ADgueme" alt="Typing SVG" />
-</a>
+<img src="https://media.tenor.com/md_jN_Lv7uwAAAAM/anime-chibi.gif" width="180" alt="Avatar" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+autodidacta+desde+2024;%F0%9F%92%BB+PHP+%2B+JavaScript+%3A+mi+motor+principal;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado;%F0%9F%9B%A1%EF%B8%8F+Seguridad+OWASP+y+cifrado+Argon2ID;%F0%9F%90%8D+Python+%2B+Whisper+%3A+COW-BOT+te+escucha;%F0%9F%A7%A0+94+skills+para+agentes+de+IA;%F0%9F%92%B0+28+mods+PAYDAY+2+%3A+experiencia+definitiva;%E2%AD%90+8+repos+%C2%B7+120%2B+commits+%C2%B7+s%C3%ADgueme" alt="Typing SVG" />
 
 <br>
 
@@ -353,9 +355,15 @@ Organización por género · 3 niveles de producción · Catálogo en expansión
 
 <br><br>
 
-### Discord
+<a href="https://discord.gg/QWjSqHjV5f"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
-<iframe src="https://discord.com/widget?id=1366745801245593630&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+<br><br>
+
+<img src="https://media.tenor.com/qkvwUwtqdiIAAAAM/hug-divider.gif" width="80%" alt="Separador" />
+
+<br>
+
+<img src="https://media.tenor.com/qMwo1n-MFxYAAAAm/moster-energy-drink-monster-meme.webp" width="200" alt="Meme" />
 
 <br><br>
 
