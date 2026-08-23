@@ -1,10 +1,9 @@
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+autodidacta+desde+2024;%F0%9F%92%BB+PHP+%2B+JavaScript+%3A+mi+motor+principal;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado;%F0%9F%9B%A1%EF%B8%8F+Seguridad+OWASP+y+cifrado+Argon2ID;%F0%9F%90%8D+Python+%2B+Whisper+%3A+COW-BOT+te+escucha;%F0%9F%A7%A0+94+skills+para+agentes+de+IA;%E2%AD%90+7+repos+%C2%B7+120%2B+commits+%C2%B7+s%C3%ADgueme" alt="Typing SVG: presentación de Riutexu" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+autodidacta+desde+2024;%F0%9F%92%BB+PHP+%2B+JavaScript+%3A+mi+motor+principal;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado;%F0%9F%9B%A1%EF%B8%8F+Seguridad+OWASP+y+cifrado+Argon2ID;%F0%9F%90%8D+Python+%2B+Whisper+%3A+COW-BOT+te+escucha;%F0%9F%A7%A0+94+skills+para+agentes+de+IA;%F0%9F%92%B0+28+mods+PAYDAY+2+%3A+experiencia+definitiva;%E2%AD%90+8+repos+%C2%B7+120%2B+commits+%C2%B7+s%C3%ADgueme" alt="Typing SVG: presentación de Riutexu" />
 
   <br>
 
-  <!-- Contadores en vivo, se actualizan solos desde la API de GitHub -->
   <a href="https://github.com/Riutexu?tab=followers"><img src="https://img.shields.io/github/followers/Riutexu?style=for-the-badge&label=SEGUIDORES&color=b19cd9&logo=github&logoColor=white" alt="Seguidores" /></a>
   <a href="https://github.com/Riutexu?tab=repositories"><img src="https://img.shields.io/github/stars/Riutexu?style=for-the-badge&label=ESTRELLAS&color=b19cd9&logo=github&logoColor=white" alt="Estrellas" /></a>
   <a href="https://github.com/Riutexu?tab=repositories"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRiutexu&query=public_repos&label=REPOSITORIOS&color=b19cd9&style=for-the-badge&logo=github&logoColor=white" alt="Repositorios" /></a>
@@ -66,7 +65,7 @@
 
 ---
 
-## 🛠️ STACK TÉCNICO 🛠️
+## 🛠️ STACK TECNOLÓGICO 🛠️
 
 <div align="center">
 
@@ -87,7 +86,7 @@
 
 ## 🗺️ PROYECTOS 🗺️
 
-Cada repositorio incluye documentación, instrucciones de instalación y (cuando aplica) despliegue en producción. Los badges son dinámicos: reflejan el estado real en tiempo real.
+Cada repositorio incluye documentación completa, instrucciones de instalación y (cuando aplica) despliegue en producción. Los badges son dinámicos y reflejan el estado real en tiempo real.
 
 <div align="center">
 <table border="0" cellpadding="15" cellspacing="0" width="95%">
@@ -102,7 +101,9 @@ Cada repositorio incluye documentación, instrucciones de instalación y (cuando
         ▪ Wrapped anual calculado 100% en el dispositivo<br>
         ▪ Sin registros, sin cuentas, sin telemetría
       </p>
-      <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle&perline=3&theme=dark" /><br><br>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle,android&perline=4&theme=dark" />
+      </p>
       <img src="https://img.shields.io/github/stars/Riutexu/Ryutify?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
       <img src="https://img.shields.io/github/last-commit/Riutexu/Ryutify?style=flat-square&label=Actualizado&color=ff9e64&logo=git&logoColor=white" /><br>
       <code>git clone https://github.com/Riutexu/Ryutify.git</code><br><br>
@@ -110,7 +111,7 @@ Cada repositorio incluye documentación, instrucciones de instalación y (cuando
     </td>
     <td width="0.5%"></td>
     <td align="left" width="33%">
-      <b>🖥️ RYU-TUI · v3.1</b><br>
+      <b>🖥️ RYU-TUI · v3.2</b><br>
       <sub><i>Toolkit para Windows en terminal · GPL-3.0</i></sub>
       <p align="left">
         ▪ 13 temas true color (Cyberpunk, Matrix, Aurora...)<br>
@@ -119,7 +120,9 @@ Cada repositorio incluye documentación, instrucciones de instalación y (cuando
         ▪ Perfiles Gaming / Privacy / Balanced / Aggressive<br>
         ▪ ~4.600 líneas de código documentadas
       </p>
-      <img src="https://skillicons.dev/icons?i=powershell,bash,linux,windows&perline=4&theme=dark" /><br><br>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=powershell,bash,windows,linux&perline=4&theme=dark" />
+      </p>
       <img src="https://img.shields.io/github/stars/Riutexu/Terminal-TUI?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
       <img src="https://img.shields.io/github/license/Riutexu/Terminal-TUI?style=flat-square&label=GPLv3&color=3ddc84&logo=gnu&logoColor=white" />
       <img src="https://img.shields.io/github/last-commit/Riutexu/Terminal-TUI?style=flat-square&label=Actualizado&color=ff9e64&logo=git&logoColor=white" /><br>
@@ -137,7 +140,9 @@ Cada repositorio incluye documentación, instrucciones de instalación y (cuando
         ▪ Argon2ID · CSRF · Rate limiting progresivo<br>
         ▪ Caché JSON con LRU (efectividad 85%+)
       </p>
-      <img src="https://skillicons.dev/icons?i=php,mysql,js,apache&perline=4&theme=dark" /><br><br>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=php,mysql,js,css,html,apache&perline=6&theme=dark" />
+      </p>
       <img src="https://img.shields.io/github/stars/Riutexu/Kike-Surveyor?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
       <img src="https://img.shields.io/github/last-commit/Riutexu/Kike-Surveyor?style=flat-square&label=Actualizado&color=ff9e64&logo=git&logoColor=white" /><br>
       <code>git clone https://github.com/Riutexu/Kike-Surveyor.git</code><br><br>
@@ -150,12 +155,14 @@ Cada repositorio incluye documentación, instrucciones de instalación y (cuando
       <b>🧠 AI-Skills-Ryu · v2.0.0</b><br>
       <sub><i>Skills para agentes de IA · MIT</i></sub>
       <p align="left">
-        ▪ 94 skills listas para instalar (Claude Code, opencode, Cursor...)<br>
+        ▪ 1237 skills listas para instalar<br>
         ▪ 31 temas y niveles básico/avanzado/profesional<br>
         ▪ Economía de tokens con carga por demanda<br>
         ▪ Resultados verificables y defendibles
       </p>
-      <img src="https://skillicons.dev/icons?i=typescript,html,css,md,github&perline=5&theme=dark" /><br><br>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=typescript,html,css,md,github&perline=5&theme=dark" />
+      </p>
       <img src="https://img.shields.io/github/stars/Riutexu/AI-Skills-Ryu?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
       <img src="https://img.shields.io/github/license/Riutexu/AI-Skills-Ryu?style=flat-square&label=MIT&color=3ddc84&logo=gnu&logoColor=white" />
       <img src="https://img.shields.io/github/last-commit/Riutexu/AI-Skills-Ryu?style=flat-square&label=Actualizado&color=ff9e64&logo=git&logoColor=white" /><br>
@@ -173,7 +180,9 @@ Cada repositorio incluye documentación, instrucciones de instalación y (cuando
         ▪ Lectura en voz alta (TTS) en el canal de voz<br>
         ▪ Detección de actividad de voz (VAD)
       </p>
-      <img src="https://skillicons.dev/icons?i=python,discord,linux,bash&perline=4&theme=dark" /><br><br>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=python,discord,git,linux,bash&perline=5&theme=dark" />
+      </p>
       <img src="https://img.shields.io/github/stars/Riutexu/COWBOT-?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
       <img src="https://img.shields.io/github/last-commit/Riutexu/COWBOT-?style=flat-square&label=Actualizado&color=ff9e64&logo=git&logoColor=white" /><br>
       <code>git clone https://github.com/Riutexu/COWBOT-.git</code><br><br>
@@ -182,18 +191,47 @@ Cada repositorio incluye documentación, instrucciones de instalación y (cuando
     <td width="0.5%"></td>
     <td align="left">
       <b>🎮 MIS-JUEGOS-DE-STEAM</b><br>
-      <sub><i>Colección de juegos organizada (~515 títulos)</i></sub>
+      <sub><i>Colección de juegos organizada (~526 títulos)</i></sub>
       <p align="left">
         ▪ Organización por género, desarrollador y estilo<br>
-        ▪ Criterios de clasificación documentados<br>
-        ▪ Sección única por producto, sin duplicados<br>
+        ▪ 3 niveles de producción: AAA · AA · A<br>
+        ▪ 526 productos sin duplicados<br>
         ▪ Catálogo en constante expansión
       </p>
-      <img src="https://skillicons.dev/icons?i=windows,git,github&perline=3&theme=dark" /><br><br>
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=steam,windows,git,github&perline=4&theme=dark" />
+      </p>
       <img src="https://img.shields.io/github/stars/Riutexu/MIS-JUEGOS-DE-STEAM?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
       <img src="https://img.shields.io/github/last-commit/Riutexu/MIS-JUEGOS-DE-STEAM?style=flat-square&label=Actualizado&color=ff9e64&logo=git&logoColor=white" /><br>
       <code>git clone https://github.com/Riutexu/MIS-JUEGOS-DE-STEAM.git</code><br><br>
       <a href="https://github.com/Riutexu/MIS-JUEGOS-DE-STEAM">Ver repositorio →</a>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="3" align="center" width="100%">
+      <table border="0" cellpadding="15" cellspacing="0" width="50%">
+        <tr>
+          <td align="left">
+            <b>💰 PAYDAY 2 Definitive Edition</b><br>
+            <sub><i>28 mods curados para la experiencia definitiva de PD2</i></sub>
+            <p align="left">
+              ▪ Gameplay & balance: 8 mods (rebalanceo, cámaras, keycards, carry stacker)<br>
+              ▪ Quality of life: 7 mods (auto-discard, sin diálogos, highlights inteligentes)<br>
+              ▪ Multiplayer: 3 mods (server browser, force start, pre-planning)<br>
+              ▪ HUD & Visual: 7 mods (VoidUI Hotline Miami, flashbang Astolfo, FOV custom)<br>
+              ▪ 0 conflictos — instalación en 3 pasos con SuperBLT
+            </p>
+            <p align="center">
+              <img src="https://skillicons.dev/icons?i=lua,steam,windows&perline=3&theme=dark" />
+            </p>
+            <img src="https://img.shields.io/github/stars/Riutexu/payday2-definitive-edition-mods?style=flat-square&label=Estrellas&color=b19cd9&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/github/last-commit/Riutexu/payday2-definitive-edition-mods?style=flat-square&label=Actualizado&color=ff9e64&logo=git&logoColor=white" /><br>
+            <code>git clone https://github.com/Riutexu/payday2-definitive-edition-mods.git</code><br><br>
+            <a href="https://github.com/Riutexu/payday2-definitive-edition-mods">Ver repositorio →</a>
+          </td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
@@ -253,7 +291,7 @@ Camino de aprendizaje verificado con proyectos reales, de lo fundamental a lo co
 
 | Estado | Proyecto | Notas |
 |---|---|---|
-| ✅ Completado | RYU-TUI v3.1 · Kike Surveyor v3.1 · AI-Skills-Ryu v2.0.0 | Documentados y estables |
+| ✅ Completado | RYU-TUI v3.2 · Kike Surveyor v3.1 · AI-Skills-Ryu v2.0.0 | Documentados y estables |
 | 🚧 En desarrollo | Ryutify · COW-BOT | Última actividad: Ago 2026 · Jul 2026 |
 | 🔜 Próximo | Ryutify v0.2, nuevos módulos RYU-TUI | Publicado en este perfil antes que en ningún otro sitio |
 
