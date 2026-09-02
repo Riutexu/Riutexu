@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+autodidacta+desde+2024;%F0%9F%92%BB+PHP+%2B+JavaScript+%3A+mi+motor+principal;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado;%F0%9F%9B%A1%EF%B8%8F+Seguridad+OWASP+y+cifrado+Argon2ID;%F0%9F%90%8D+Python+%2B+Whisper+%3A+COW-BOT+te+escucha;%F0%9F%A7%A0+94+skills+para+agentes+de+IA;%F0%9F%92%B0+28+mods+PAYDAY+2+%3A+experiencia+definitiva;%E2%AD%90+8+repos+%C2%B7+120%2B+commits+%C2%B7+s%C3%ADgueme" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=700&color=b19cd9&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Desarrollador+Full+Stack+autodidacta+desde+2024;%F0%9F%92%BB+PHP+%2B+JavaScript+%3A+mi+motor+principal;%F0%9F%8E%A7+Android+con+Kotlin+%3A+Ryutify+publicado;%F0%9F%9B%A1%EF%B8%8F+Seguridad+OWASP+y+cifrado+Argon2ID;%F0%9F%A7%A0+94+skills+para+agentes+de+IA;%F0%9F%92%B0+28+mods+PAYDAY+2+%3A+experiencia+definitiva;%E2%AD%90+8+repos+%C2%B7+120%2B+commits+%C2%B7+s%C3%ADgueme" alt="Typing SVG" />
 
 <br>
 
@@ -199,33 +199,6 @@ Panel glassmorphism · CRUD completo · OWASP Top 10 mitigado · Argon2ID · Cac
 
 <div align="center">
 
-### 🤖 COW-BOT
-
-**Bot de Discord con procesamiento de voz**
-
-<img src="https://skillicons.dev/icons?i=python,discord,git,linux,bash&perline=5&theme=dark" />
-
-Whisper STT · OpenRouter AI · Webhook · TTS en canal de voz · VAD
-
-<br>
-
-<img src="https://img.shields.io/github/stars/Riutexu/COWBOT-?style=flat-square&label=Stars&color=b19cd9&logo=github&logoColor=white" />&nbsp;
-<img src="https://img.shields.io/github/last-commit/Riutexu/COWBOT-?style=flat-square&color=ff9e64&logo=git&logoColor=white" />
-
-<br>
-
-[`git clone https://github.com/Riutexu/COWBOT-.git`](https://github.com/Riutexu/COWBOT-)
-
-</div>
-
-<br>
-
----
-
-<br>
-
-<div align="center">
-
 ### 🎮 PAYDAY 2 Definitive Edition
 
 **28 mods curados para la experiencia definitiva**
@@ -307,7 +280,7 @@ Organización por género · 3 niveles de producción · Catálogo en expansión
 | Estado | Proyecto | Notas |
 |:---:|:---:|:---|
 | ✅ | RYU-TUI v3.2 · Kike Surveyor v3.1 · AI-Skills-Ryu v2.0.0 | Estables |
-| 🚧 | Ryutify · COW-BOT | Ago 2026 · Jul 2026 |
+| 🚧 | Ryutify | Ago 2026 |
 | 🔜 | Ryutify v0.2 · Nuevos módulos RYU-TUI | Primero aquí |
 
 <br>
